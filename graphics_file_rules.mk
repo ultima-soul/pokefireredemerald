@@ -59,6 +59,21 @@ $(CASTFORMGFXDIR)/shiny.gbapal: $(CASTFORMGFXDIR)/shiny_normal_form.gbapal \
 
 ### Tilesets ###
 
+$(TILESETGFXDIR)/primary/general/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 640
+
+$(TILESETGFXDIR)/secondary/pallet/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 76
+	
+$(TILESETGFXDIR)/secondary/viridian/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 112
+
+$(TILESETGFXDIR)/secondary/pewter/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 280
+	
+$(TILESETGFXDIR)/secondary/cerulean/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 158
+
 $(TILESETGFXDIR)/secondary/petalburg/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 159
 

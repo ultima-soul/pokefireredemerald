@@ -1,0 +1,38 @@
+{
+  "id": "MAP_PEWTER_CITY",
+  "name": "PewterCity",
+  "layout": "LAYOUT_PEWTER_CITY",
+  "music": "BGM_FRLG_VIRIDIAN_CITY",
+  "region_map_section": "MAPSEC_PEWTER_CITY",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_1",
+  "unknown_18": 1,
+  "unknown_19": 6,
+  "elevator_flag": 0,
+  "battle_scene": "BATTLE_SCENE_0",
+  "connections": [
+    {
+      "map": "MAP_ROUTE2",
+      "offset": 12,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE3",
+      "offset": 10,
+      "direction": "right"
+    }
+  ],
+  "object_events": [
+   
+  ],
+  "warp_events": [
+    
+  ],
+  "coord_events": [
+    
+  ],
+  "bg_events": [
+   
+  ]
+}
