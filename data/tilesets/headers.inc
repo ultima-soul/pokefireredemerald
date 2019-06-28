@@ -10,6 +10,50 @@ gTileset_General:: @ 83DF704
 	.4byte InitTilesetAnim_General
 
 	.align 2
+gTileset_Pallet::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Pallet
+	.4byte gTilesetPalettes_Pallet
+	.4byte gMetatiles_Pallet
+	.4byte gMetatileAttributes_Pallet
+	.4byte NULL
+
+	.align 2
+gTileset_Viridian::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Viridian
+	.4byte gTilesetPalettes_Viridian
+	.4byte gMetatiles_Viridian
+	.4byte gMetatileAttributes_Viridian
+	.4byte NULL
+
+	.align 2
+gTileset_Pewter::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Pewter
+	.4byte gTilesetPalettes_Pewter
+	.4byte gMetatiles_Pewter
+	.4byte gMetatileAttributes_Pewter
+	.4byte NULL
+
+	.align 2
+gTileset_Cerulean::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Cerulean
+	.4byte gTilesetPalettes_Cerulean
+	.4byte gMetatiles_Cerulean
+	.4byte gMetatileAttributes_Cerulean
+	.4byte NULL
+
+	.align 2
 gTileset_Petalburg:: @ 83DF71C
 	.byte TRUE @ is compressed
 	.byte TRUE @ is secondary tileset

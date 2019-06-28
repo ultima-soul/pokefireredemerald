@@ -1,4 +1,96 @@
 	.align 2
+gTilesetTiles_Pallet::
+	.incbin "data/tilesets/secondary/pallet/tiles.4bpp.lz"
+	
+	.align 2
+gTilesetPalettes_Pallet::
+	.incbin "data/tilesets/secondary/pallet/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pallet/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_Viridian::
+	.incbin "data/tilesets/secondary/viridian/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Viridian::
+	.incbin "data/tilesets/secondary/viridian/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/viridian/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_Pewter::
+	.incbin "data/tilesets/secondary/pewter/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Pewter::
+	.incbin "data/tilesets/secondary/pewter/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pewter/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_Cerulean::
+	.incbin "data/tilesets/secondary/cerulean/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Cerulean::
+	.incbin "data/tilesets/secondary/cerulean/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/cerulean/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Petalburg:: @ 8339E08
 	.incbin "data/tilesets/secondary/petalburg/tiles.4bpp.lz"
 

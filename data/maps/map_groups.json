@@ -36,6 +36,10 @@
     "gMapGroup33"
   ],
   "gMapGroup0": [
+	"PalletTown",
+	"ViridianCity",
+	"PewterCity",
+	"CeruleanCity",
     "PetalburgCity",
     "SlateportCity",
     "MauvilleCity",
@@ -52,6 +56,11 @@
     "FallarborTown",
     "VerdanturfTown",
     "PacifidlogTown",
+    "Route1",
+    "Route2",
+    "Route3",
+    "Route4",
+    "Route5",
     "Route101",
     "Route102",
     "Route103",

@@ -7,6 +7,38 @@ gMetatileAttributes_General:: @ 83980F0
 	.incbin "data/tilesets/primary/general/metatile_attributes.bin"
 
 	.align 1
+gMetatiles_Pallet::
+	.incbin "data/tilesets/secondary/pallet/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Pallet::
+	.incbin "data/tilesets/secondary/pallet/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_Viridian::
+	.incbin "data/tilesets/secondary/viridian/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Viridian::
+	.incbin "data/tilesets/secondary/viridian/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_Pewter::
+	.incbin "data/tilesets/secondary/pewter/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Pewter::
+	.incbin "data/tilesets/secondary/pewter/metatile_attributes.bin"
+	
+	.align 1
+gMetatiles_Cerulean::
+	.incbin "data/tilesets/secondary/cerulean/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Cerulean::
+	.incbin "data/tilesets/secondary/cerulean/metatile_attributes.bin"
+
+	.align 1
 gMetatiles_Petalburg:: @ 83984F0
 	.incbin "data/tilesets/secondary/petalburg/metatiles.bin"
 
