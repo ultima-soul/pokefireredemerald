@@ -54,6 +54,17 @@ gTileset_Cerulean::
 	.4byte NULL
 
 	.align 2
+gTileset_Vermilion::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Vermilion
+	.4byte gTilesetPalettes_Vermilion
+	.4byte gMetatiles_Vermilion
+	.4byte gMetatileAttributes_Vermilion
+	.4byte NULL
+
+	.align 2
 gTileset_Petalburg:: @ 83DF71C
 	.byte TRUE @ is compressed
 	.byte TRUE @ is secondary tileset

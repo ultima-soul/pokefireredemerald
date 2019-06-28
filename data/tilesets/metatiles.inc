@@ -39,6 +39,14 @@ gMetatileAttributes_Cerulean::
 	.incbin "data/tilesets/secondary/cerulean/metatile_attributes.bin"
 
 	.align 1
+gMetatiles_Vermilion:: @ 82A58D4
+	.incbin "data/tilesets/secondary/vermilion/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Vermilion:: @ 82A6354
+	.incbin "data/tilesets/secondary/vermilion/metatile_attributes.bin"
+
+	.align 1
 gMetatiles_Petalburg:: @ 83984F0
 	.incbin "data/tilesets/secondary/petalburg/metatiles.bin"
 

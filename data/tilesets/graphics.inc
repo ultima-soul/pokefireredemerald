@@ -91,6 +91,29 @@ gTilesetPalettes_Cerulean::
 	.incbin "data/tilesets/secondary/cerulean/palettes/15.gbapal"
 
 	.align 2
+gTilesetTiles_Vermilion::
+	.incbin "data/tilesets/secondary/vermilion/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Vermilion::
+	.incbin "data/tilesets/secondary/vermilion/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/vermilion/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Petalburg:: @ 8339E08
 	.incbin "data/tilesets/secondary/petalburg/tiles.4bpp.lz"
 
