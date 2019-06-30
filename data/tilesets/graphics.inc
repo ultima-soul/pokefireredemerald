@@ -137,6 +137,52 @@ gTilesetPalettes_Lavender::
 	.incbin "data/tilesets/secondary/lavender/palettes/15.gbapal"
 
 	.align 2
+gTilesetTiles_Celadon::
+	.incbin "data/tilesets/secondary/celadon/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Celadon::
+	.incbin "data/tilesets/secondary/celadon/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/celadon/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_Fuchsia::
+	.incbin "data/tilesets/secondary/fuchsia/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Fuchsia::
+	.incbin "data/tilesets/secondary/fuchsia/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/fuchsia/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Petalburg:: @ 8339E08
 	.incbin "data/tilesets/secondary/petalburg/tiles.4bpp.lz"
 

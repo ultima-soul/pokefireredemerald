@@ -1,0 +1,41 @@
+{
+  "id": "MAP_FUCHSIA_CITY",
+  "name": "FuchsiaCity",
+  "layout": "LAYOUT_FUCHSIA_CITY",
+  "music": "BGM_FRLG_CERULEAN_CITY",
+  "region_map_section": "MAPSEC_FUCHSIA_CITY",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_1",
+  "unknown_18": 1,
+  "unknown_19": 6,
+  "elevator_flag": 0,
+  "battle_scene": "BATTLE_SCENE_0",
+  "connections": [
+    {
+      "map": "MAP_ROUTE19",
+      "offset": 12,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE18",
+      "offset": 10,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE15",
+      "offset": 10,
+      "direction": "right"
+    }
+  ],
+  "object_events": [
+    
+  ],
+  "warp_events": [
+   
+  ],
+  "coord_events": [],
+  "bg_events": [
+   
+  ]
+}

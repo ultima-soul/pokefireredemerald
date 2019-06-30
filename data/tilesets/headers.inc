@@ -75,6 +75,27 @@ gTileset_Lavender::
 	.4byte gMetatileAttributes_Lavender
 	.4byte NULL
 	
+	.align 2
+gTileset_Celadon::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Celadon
+	.4byte gTilesetPalettes_Celadon
+	.4byte gMetatiles_Celadon
+	.4byte gMetatileAttributes_Celadon
+	.4byte sub_80701D8
+
+	.align 2
+gTileset_Fuchsia::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Fuchsia
+	.4byte gTilesetPalettes_Fuchsia
+	.4byte gMetatiles_Fuchsia
+	.4byte gMetatileAttributes_Fuchsia
+	.4byte NULL
 
 	.align 2
 gTileset_Petalburg:: @ 83DF71C

@@ -55,6 +55,22 @@ gMetatileAttributes_Lavender::
 	.incbin "data/tilesets/secondary/lavender/metatile_attributes.bin"
 
 	.align 1
+gMetatiles_Celadon::
+	.incbin "data/tilesets/secondary/celadon/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Celadon::
+	.incbin "data/tilesets/secondary/celadon/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_Fuchsia::
+	.incbin "data/tilesets/secondary/fuchsia/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Fuchsia::
+	.incbin "data/tilesets/secondary/fuchsia/metatile_attributes.bin"
+
+	.align 1
 gMetatiles_Petalburg:: @ 83984F0
 	.incbin "data/tilesets/secondary/petalburg/metatiles.bin"
 
