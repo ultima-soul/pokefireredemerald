@@ -282,6 +282,18 @@
       "blockdata_filepath": "data/layouts/Route5/map.bin"
     },
     {
+      "id": "LAYOUT_ROUTE6",
+      "name": "Route6_Layout",
+      "width": 24,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Vermilion",
+      "border_filepath": "data/layouts/Route6/border.bin",
+      "blockdata_filepath": "data/layouts/Route6/map.bin"
+    },	
+    {
       "id": "LAYOUT_ROUTE101",
       "name": "Route101_Layout",
       "width": 20,
