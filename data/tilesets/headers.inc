@@ -65,6 +65,18 @@ gTileset_Vermilion::
 	.4byte NULL
 
 	.align 2
+gTileset_Lavender::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Lavender
+	.4byte gTilesetPalettes_Lavender
+	.4byte gMetatiles_Lavender
+	.4byte gMetatileAttributes_Lavender
+	.4byte NULL
+	
+
+	.align 2
 gTileset_Petalburg:: @ 83DF71C
 	.byte TRUE @ is compressed
 	.byte TRUE @ is secondary tileset

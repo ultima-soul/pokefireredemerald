@@ -39,12 +39,20 @@ gMetatileAttributes_Cerulean::
 	.incbin "data/tilesets/secondary/cerulean/metatile_attributes.bin"
 
 	.align 1
-gMetatiles_Vermilion:: @ 82A58D4
+gMetatiles_Vermilion::
 	.incbin "data/tilesets/secondary/vermilion/metatiles.bin"
 
 	.align 1
-gMetatileAttributes_Vermilion:: @ 82A6354
+gMetatileAttributes_Vermilion::
 	.incbin "data/tilesets/secondary/vermilion/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_Lavender::
+	.incbin "data/tilesets/secondary/lavender/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Lavender::
+	.incbin "data/tilesets/secondary/lavender/metatile_attributes.bin"
 
 	.align 1
 gMetatiles_Petalburg:: @ 83984F0

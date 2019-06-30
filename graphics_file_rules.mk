@@ -74,8 +74,11 @@ $(TILESETGFXDIR)/secondary/pewter/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/cerulean/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 158
 
-$(TILESETGFXDIR)/secondary/82D4B24/tiles.4bpp: %.4bpp: %.png
+$(TILESETGFXDIR)/secondary/vermilion/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 140
+
+$(TILESETGFXDIR)/secondary/lavender/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 256
 
 $(TILESETGFXDIR)/secondary/petalburg/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 159
