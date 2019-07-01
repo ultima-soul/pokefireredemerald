@@ -229,6 +229,29 @@ gTilesetPalettes_IndigoPlateauExterior::
 	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/15.gbapal"
 
 	.align 2
+gTilesetTiles_ViridianForest::
+	.incbin "data/tilesets/secondary/viridian_forest/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_ViridianForest::
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/viridian_forest/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Petalburg:: @ 8339E08
 	.incbin "data/tilesets/secondary/petalburg/tiles.4bpp.lz"
 
