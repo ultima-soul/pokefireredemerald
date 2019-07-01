@@ -183,6 +183,52 @@ gTilesetPalettes_Fuchsia::
 	.incbin "data/tilesets/secondary/fuchsia/palettes/15.gbapal"
 
 	.align 2
+gTilesetTiles_Cinnabar::
+	.incbin "data/tilesets/secondary/cinnabar/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Cinnabar::
+	.incbin "data/tilesets/secondary/cinnabar/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_IndigoPlateauExterior::
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_IndigoPlateauExterior::
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Petalburg:: @ 8339E08
 	.incbin "data/tilesets/secondary/petalburg/tiles.4bpp.lz"
 

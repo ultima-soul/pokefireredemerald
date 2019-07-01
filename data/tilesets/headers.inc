@@ -98,6 +98,28 @@ gTileset_Fuchsia::
 	.4byte NULL
 
 	.align 2
+gTileset_Cinnabar::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Cinnabar
+	.4byte gTilesetPalettes_Cinnabar
+	.4byte gMetatiles_Cinnabar
+	.4byte gMetatileAttributes_Cinnabar
+	.4byte NULL
+	
+	.align 2
+gTileset_IndigoPlateauExterior::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_IndigoPlateauExterior
+	.4byte gTilesetPalettes_IndigoPlateauExterior
+	.4byte gMetatiles_IndigoPlateauExterior
+	.4byte gMetatileAttributes_IndigoPlateauExterior
+	.4byte NULL
+
+	.align 2
 gTileset_Petalburg:: @ 83DF71C
 	.byte TRUE @ is compressed
 	.byte TRUE @ is secondary tileset

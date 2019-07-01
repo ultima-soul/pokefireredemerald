@@ -1,0 +1,38 @@
+{
+  "id": "MAP_ROUTE23",
+  "name": "Route23",
+  "layout": "LAYOUT_ROUTE23",
+  "music": "BGM_FRLG_INDIGO_PLATEAU",
+  "region_map_section": "MAPSEC_ROUTE_23",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_3",
+  "unknown_18": 1,
+  "unknown_19": 6,
+  "elevator_flag": 0,
+  "battle_scene": "BATTLE_SCENE_0",
+  "connections": [
+    {
+      "map": "MAP_INDIGO_PLATEAU_EXTERIOR",
+      "offset": 0,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE22",
+      "offset": 0,
+      "direction": "down"
+    }
+  ],
+  "object_events": [
+   
+  ],
+  "warp_events": [
+   
+  ],
+  "coord_events": [
+ 
+  ],
+  "bg_events": [
+    
+  ]
+}

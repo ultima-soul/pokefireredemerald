@@ -71,6 +71,22 @@ gMetatileAttributes_Fuchsia::
 	.incbin "data/tilesets/secondary/fuchsia/metatile_attributes.bin"
 
 	.align 1
+gMetatiles_Cinnabar::
+	.incbin "data/tilesets/secondary/cinnabar/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Cinnabar::
+	.incbin "data/tilesets/secondary/cinnabar/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_IndigoPlateauExterior::
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_IndigoPlateauExterior::
+	.incbin "data/tilesets/secondary/indigo_plateau_exterior/metatile_attributes.bin"
+
+	.align 1
 gMetatiles_Petalburg:: @ 83984F0
 	.incbin "data/tilesets/secondary/petalburg/metatiles.bin"
 
