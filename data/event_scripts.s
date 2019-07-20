@@ -78,6 +78,8 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/LavenderTown/scripts.inc"
 	.include "data/maps/CeladonCity/scripts.inc"
 	.include "data/maps/FuchsiaCity/scripts.inc"
+	.include "data/maps/SaffronCity/scripts.inc"
+	.include "data/maps/SaffronCity_Classic/scripts.inc"	
 	.include "data/maps/CinnabarIsland/scripts.inc"
 	.include "data/maps/IndigoPlateau_Exterior/scripts.inc"
 	.include "data/maps/PetalburgCity/scripts.inc"

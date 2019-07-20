@@ -85,7 +85,10 @@ $(TILESETGFXDIR)/secondary/celadon/tiles.4bpp: %.4bpp: %.png
 	
 $(TILESETGFXDIR)/secondary/fuchsia/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 191
-	
+
+$(TILESETGFXDIR)/secondary/saffron/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 262
+
 $(TILESETGFXDIR)/secondary/cinnabar/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 128
 

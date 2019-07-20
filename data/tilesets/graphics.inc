@@ -181,6 +181,29 @@ gTilesetPalettes_Fuchsia::
 	.incbin "data/tilesets/secondary/fuchsia/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/fuchsia/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/fuchsia/palettes/15.gbapal"
+	
+	.align 2
+gTilesetTiles_Saffron::
+	.incbin "data/tilesets/secondary/saffron/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Saffron::
+	.incbin "data/tilesets/secondary/saffron/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/saffron/palettes/15.gbapal"
 
 	.align 2
 gTilesetTiles_Cinnabar::

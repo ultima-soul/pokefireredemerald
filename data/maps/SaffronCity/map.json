@@ -12,29 +12,16 @@
   "elevator_flag": 0,
   "battle_scene": "BATTLE_SCENE_0",
   "connections": [
-    {
-      "map": "MAP_ROUTE5",
-      "offset": 0,
-      "direction": "up"
-    },
-    {
-      "map": "MAP_ROUTE6",
-      "offset": 12,
-      "direction": "down"
-    },
-    {
-      "map": "MAP_ROUTE7",
-      "offset": 10,
-      "direction": "left"
-    },
-    {
-      "map": "MAP_ROUTE8",
-      "offset": 10,
-      "direction": "right"
-    }
+ 
   ],
-  "object_events": [],
-  "warp_events": [],
+  "object_events": [
+    
+  ],
+  "warp_events": [
+   
+  ],
   "coord_events": [],
-  "bg_events": []
+  "bg_events": [
+   
+  ]
 }

@@ -96,6 +96,17 @@ gTileset_Fuchsia::
 	.4byte gMetatiles_Fuchsia
 	.4byte gMetatileAttributes_Fuchsia
 	.4byte NULL
+	
+	.align 2
+gTileset_Saffron::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Saffron
+	.4byte gTilesetPalettes_Saffron
+	.4byte gMetatiles_Saffron
+	.4byte gMetatileAttributes_Saffron
+	.4byte NULL
 
 	.align 2
 gTileset_Cinnabar::

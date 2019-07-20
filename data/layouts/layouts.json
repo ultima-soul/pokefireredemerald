@@ -98,6 +98,30 @@
       "blockdata_filepath": "data/layouts/FuchsiaCity/map.bin"
     },
     {
+      "id": "LAYOUT_SAFFRON_CITY",
+      "name": "SaffronCity_Layout",
+      "width": 66,
+      "height": 55,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Saffron",
+      "border_filepath": "data/layouts/SaffronCity/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_CLASSIC",
+      "name": "SaffronCity_Classic_Layout",
+      "width": 48,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Saffron",
+      "border_filepath": "data/layouts/SaffronCity_Classic/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_Classic/map.bin"
+    },
+    {
       "id": "LAYOUT_CINNABAR_ISLAND",
       "name": "CinnabarIsland_Layout",
       "width": 24,
