@@ -677,3 +677,19 @@ gMetatiles_GenericBuildingKanto::
 	.align 1
 gMetatileAttributes_GenericBuildingKanto::
 	.incbin "data/tilesets/secondary/generic_building_kanto/metatile_attributes.bin"
+	
+	.align 1
+gMetatiles_GateKanto::
+	.incbin "data/tilesets/secondary/gate_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_GateKanto::
+	.incbin "data/tilesets/secondary/gate_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_LabKanto::
+	.incbin "data/tilesets/secondary/lab_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_LabKanto::
+	.incbin "data/tilesets/secondary/lab_kanto/metatile_attributes.bin"

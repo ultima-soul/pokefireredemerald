@@ -479,6 +479,9 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SecretBase_YellowCave3/scripts.inc"
 	.include "data/maps/SecretBase_YellowCave4/scripts.inc"
 	.include "data/maps/PalletTown_RedsHouse_1F/scripts.inc"
+	.include "data/maps/PalletTown_RedsHouse_2F/scripts.inc"
+	.include "data/maps/PalletTown_BluesHouse/scripts.inc"
+	.include "data/maps/PalletTown_ProfessorOaksLab/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

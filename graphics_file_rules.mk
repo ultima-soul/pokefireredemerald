@@ -296,7 +296,11 @@ $(TILESETGFXDIR)/secondary/mystery_events_house/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/generic_building_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 63
 
+$(TILESETGFXDIR)/secondary/gate_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 152
 
+$(TILESETGFXDIR)/secondary/lab_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 102
 
 ### Fonts ###
 

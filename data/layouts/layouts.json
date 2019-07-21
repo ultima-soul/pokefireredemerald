@@ -4890,6 +4890,42 @@
       "secondary_tileset": "gTileset_GenericBuildingKanto",
       "border_filepath": "data/layouts/PalletTown_RedsHouse_1F/border.bin",
       "blockdata_filepath": "data/layouts/PalletTown_RedsHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_REDS_HOUSE_2F",
+      "name": "PalletTown_RedsHouse_2F_Layout",
+      "width": 12,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/PalletTown_RedsHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTown_RedsHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_BLUES_HOUSE",
+      "name": "PalletTown_BluesHouse_Layout",
+      "width": 13,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/PalletTown_BluesHouse/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTown_BluesHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_PROFESSOR_OAKS_LAB",
+      "name": "PalletTown_ProfessorOaksLab_Layout",
+      "width": 13,
+      "height": 14,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_LabKanto",
+      "border_filepath": "data/layouts/PalletTown_ProfessorOaksLab/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTown_ProfessorOaksLab/map.bin"
     }
   ]
 }

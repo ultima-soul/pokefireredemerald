@@ -995,4 +995,26 @@ gTileset_GenericBuildingKanto::
 	.4byte gMetatiles_GenericBuildingKanto
 	.4byte gMetatileAttributes_GenericBuildingKanto
 	.4byte NULL
+
+	.align 2
+gTileset_GateKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_GateKanto
+	.4byte gTilesetPalettes_GateKanto
+	.4byte gMetatiles_GateKanto
+	.4byte gMetatileAttributes_GateKanto
+	.4byte NULL
+	
+	.align 2
+gTileset_LabKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_LabKanto
+	.4byte gTilesetPalettes_LabKanto
+	.4byte gMetatiles_LabKanto
+	.4byte gMetatileAttributes_LabKanto
+	.4byte NULL
 	

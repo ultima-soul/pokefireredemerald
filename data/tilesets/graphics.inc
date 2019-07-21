@@ -2053,6 +2053,10 @@ gTilesetTiles_UnionRoom:: @ 8395878
 	.incbin "data/tilesets/secondary/union_room/tiles.4bpp.lz"
 
 	.align 2
+gTilesetTiles_GenericBuildingKanto::
+	.incbin "data/tilesets/secondary/generic_building_kanto/tiles.4bpp.lz"
+
+	.align 2
 gTilesetPalettes_GenericBuildingKanto::
 	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/0.gbapal"
 	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/1.gbapal"
@@ -2072,5 +2076,47 @@ gTilesetPalettes_GenericBuildingKanto::
 	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/15.gbapal"
 
 	.align 2
-gTilesetTiles_GenericBuildingKanto::
-	.incbin "data/tilesets/secondary/generic_building_kanto/tiles.4bpp.lz"
+gTilesetTiles_GateKanto::
+	.incbin "data/tilesets/secondary/gate_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_GateKanto::
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/gate_kanto/palettes/15.gbapal"
+	
+	.align 2
+gTilesetTiles_LabKanto::
+	.incbin "data/tilesets/secondary/lab_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_LabKanto::
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/lab_kanto/palettes/15.gbapal"

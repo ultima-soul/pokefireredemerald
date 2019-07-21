@@ -662,7 +662,10 @@
     "Route124_DivingTreasureHuntersHouse"
   ],
   "gMapGroup34": [
-    "PalletTown_RedsHouse_1F"
+    "PalletTown_RedsHouse_1F",
+    "PalletTown_RedsHouse_2F",
+    "PalletTown_BluesHouse",
+	"PalletTown_ProfessorOaksLab"
   ],
   "connections_include_order": [
     "LittlerootTown",
