@@ -34,7 +34,8 @@
     "gMapGroup31",
     "gMapGroup32",
     "gMapGroup33",
-    "gMapGroup34"
+    "gMapGroup34",
+	"gMapGroup35"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -666,6 +667,14 @@
     "PalletTown_RedsHouse_2F",
     "PalletTown_BluesHouse",
 	"PalletTown_ProfessorOaksLab"
+  ],
+  "gMapGroup35": [
+    "ViridianCity_House1",
+    "ViridianCity_Gym",
+    "ViridianCity_TrainersSchool",
+    "ViridianCity_Mart",
+    "ViridianCity_PokemonCenter_1F",
+    "ViridianCity_PokemonCenter_2F"
   ],
   "connections_include_order": [
     "LittlerootTown",

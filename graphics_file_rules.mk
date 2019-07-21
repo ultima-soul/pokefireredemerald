@@ -302,6 +302,18 @@ $(TILESETGFXDIR)/secondary/gate_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/lab_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 102
 
+$(TILESETGFXDIR)/secondary/viridian_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 90
+
+$(TILESETGFXDIR)/secondary/trainers_school_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 50
+
+$(TILESETGFXDIR)/secondary/shop_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 36
+
+$(TILESETGFXDIR)/secondary/pokemon_center_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 376
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

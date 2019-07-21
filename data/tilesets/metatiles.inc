@@ -677,7 +677,7 @@ gMetatiles_GenericBuildingKanto::
 	.align 1
 gMetatileAttributes_GenericBuildingKanto::
 	.incbin "data/tilesets/secondary/generic_building_kanto/metatile_attributes.bin"
-	
+
 	.align 1
 gMetatiles_GateKanto::
 	.incbin "data/tilesets/secondary/gate_kanto/metatiles.bin"
@@ -693,3 +693,35 @@ gMetatiles_LabKanto::
 	.align 1
 gMetatileAttributes_LabKanto::
 	.incbin "data/tilesets/secondary/lab_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_ViridianGym::
+	.incbin "data/tilesets/secondary/viridian_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_ViridianGym::
+	.incbin "data/tilesets/secondary/viridian_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_TrainersSchoolKanto::
+	.incbin "data/tilesets/secondary/trainers_school_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_TrainersSchoolKanto::
+	.incbin "data/tilesets/secondary/trainers_school_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_ShopKanto::
+	.incbin "data/tilesets/secondary/shop_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_ShopKanto::
+	.incbin "data/tilesets/secondary/shop_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PokemonCenterKanto::
+	.incbin "data/tilesets/secondary/pokemon_center_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PokemonCenterKanto::
+	.incbin "data/tilesets/secondary/pokemon_center_kanto/metatile_attributes.bin"

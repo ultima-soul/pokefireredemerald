@@ -4926,6 +4926,78 @@
       "secondary_tileset": "gTileset_LabKanto",
       "border_filepath": "data/layouts/PalletTown_ProfessorOaksLab/border.bin",
       "blockdata_filepath": "data/layouts/PalletTown_ProfessorOaksLab/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_HOUSE1",
+      "name": "ViridianCity_House1_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/ViridianCity_House1/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCity_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_GYM",
+      "name": "ViridianCity_Gym_Layout",
+      "width": 20,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_ViridianGym",
+      "border_filepath": "data/layouts/ViridianCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCity_Gym/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIRIDIAN_CITY_TRAINERS_SCHOOL",
+      "name": "ViridianCity_TrainersSchool_Layout",
+      "width": 10,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_TrainersSchoolKanto",
+      "border_filepath": "data/layouts/ViridianCity_TrainersSchool/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianCity_TrainersSchool/map.bin"
+    },
+    {
+      "id": "LAYOUT_MART_KANTO",
+      "name": "Mart_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_ShopKanto",
+      "border_filepath": "data/layouts/Mart_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/Mart_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_CENTER_1F_KANTO",
+      "name": "PokemonCenter_1F_Kanto_Layout",
+      "width": 15,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonCenterKanto",
+      "border_filepath": "data/layouts/PokemonCenter_1F_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonCenter_1F_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_CENTER_2F_KANTO",
+      "name": "PokemonCenter_2F_Kanto_Layout",
+      "width": 15,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonCenterKanto",
+      "border_filepath": "data/layouts/PokemonCenter_2F_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonCenter_2F_Kanto/map.bin"
     }
   ]
 }

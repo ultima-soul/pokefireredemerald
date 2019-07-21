@@ -1017,4 +1017,48 @@ gTileset_LabKanto::
 	.4byte gMetatiles_LabKanto
 	.4byte gMetatileAttributes_LabKanto
 	.4byte NULL
+
+	.align 2
+gTileset_ViridianGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_ViridianGym
+	.4byte gTilesetPalettes_ViridianGym
+	.4byte gMetatiles_ViridianGym
+	.4byte gMetatileAttributes_ViridianGym
+	.4byte NULL
+
+	.align 2
+gTileset_TrainersSchoolKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_TrainersSchoolKanto
+	.4byte gTilesetPalettes_TrainersSchoolKanto
+	.4byte gMetatiles_TrainersSchoolKanto
+	.4byte gMetatileAttributes_TrainersSchoolKanto
+	.4byte NULL
+
+	.align 2
+gTileset_ShopKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_ShopKanto
+	.4byte gTilesetPalettes_ShopKanto
+	.4byte gMetatiles_ShopKanto
+	.4byte gMetatileAttributes_ShopKanto
+	.4byte NULL
+
+	.align 2
+gTileset_PokemonCenterKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PokemonCenterKanto
+	.4byte gTilesetPalettes_PokemonCenterKanto
+	.4byte gMetatiles_PokemonCenterKanto
+	.4byte gMetatileAttributes_PokemonCenterKanto
+	.4byte NULL
 	
