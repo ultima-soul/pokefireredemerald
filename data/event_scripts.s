@@ -506,6 +506,13 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/CeruleanCity_Mart/scripts.inc"
 	.include "data/maps/CeruleanCity_House4/scripts.inc"
 	.include "data/maps/CeruleanCity_House5/scripts.inc"
+	.include "data/maps/VermilionCity_House1/scripts.inc"
+	.include "data/maps/VermilionCity_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/VermilionCity_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/VermilionCity_PokemonFanClub/scripts.inc"
+	.include "data/maps/VermilionCity_Mart/scripts.inc"
+	.include "data/maps/VermilionCity_Gym/scripts.inc"
+	.include "data/maps/VermilionCity_House3/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

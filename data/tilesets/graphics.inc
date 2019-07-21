@@ -2327,3 +2327,49 @@ gTilesetPalettes_BikeShopKanto::
 	.incbin "data/tilesets/secondary/bike_shop_kanto/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/bike_shop_kanto/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/bike_shop_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PokemonDayCareKanto::
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PokemonDayCareKanto::
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_VermilionGym::
+	.incbin "data/tilesets/secondary/vermilion_gym/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_VermilionGym::
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/vermilion_gym/palettes/15.gbapal"

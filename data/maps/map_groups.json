@@ -37,7 +37,8 @@
     "gMapGroup34",
 	"gMapGroup35",
 	"gMapGroup36",
-	"gMapGroup37"
+	"gMapGroup37",
+	"gMapGroup38"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -699,6 +700,16 @@
     "CeruleanCity_Mart",
     "CeruleanCity_House4",
     "CeruleanCity_House5"
+  ],
+  "gMapGroup38": [
+    "VermilionCity_House1",
+    "VermilionCity_PokemonCenter_1F",
+    "VermilionCity_PokemonCenter_2F",
+    "VermilionCity_PokemonFanClub",
+    "VermilionCity_House2",
+    "VermilionCity_Mart",
+    "VermilionCity_Gym",
+    "VermilionCity_House3"
   ],
   "connections_include_order": [
     "LittlerootTown",

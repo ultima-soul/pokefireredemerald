@@ -5118,6 +5118,30 @@
       "secondary_tileset": "gTileset_GateKanto",
       "border_filepath": "data/layouts/CeruleanCity_House5/border.bin",
       "blockdata_filepath": "data/layouts/CeruleanCity_House5/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY_POKEMON_FAN_CLUB",
+      "name": "VermilionCity_PokemonFanClub_Layout",
+      "width": 12,
+      "height": 12,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonDayCareKanto",
+      "border_filepath": "data/layouts/VermilionCity_PokemonFanClub/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCity_PokemonFanClub/map.bin"
+    },
+	{
+      "id": "LAYOUT_VERMILION_CITY_GYM",
+      "name": "VermilionCity_Gym_Layout",
+      "width": 11,
+      "height": 21,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_VermilionGym",
+      "border_filepath": "data/layouts/VermilionCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCity_Gym/map.bin"
     }
   ]
 }

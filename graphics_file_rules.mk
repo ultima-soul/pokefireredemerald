@@ -329,6 +329,12 @@ $(TILESETGFXDIR)/secondary/cerulean_gym/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/bike_shop_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 60
 
+$(TILESETGFXDIR)/secondary/pokemon_day_care_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 85
+
+$(TILESETGFXDIR)/secondary/vermilion_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 247
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

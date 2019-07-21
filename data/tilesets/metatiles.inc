@@ -765,3 +765,19 @@ gMetatiles_BikeShopKanto::
 	.align 1
 gMetatileAttributes_BikeShopKanto::
 	.incbin "data/tilesets/secondary/bike_shop_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PokemonDayCareKanto::
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PokemonDayCareKanto::
+	.incbin "data/tilesets/secondary/pokemon_day_care_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_VermilionGym::
+	.incbin "data/tilesets/secondary/vermilion_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_VermilionGym::
+	.incbin "data/tilesets/secondary/vermilion_gym/metatile_attributes.bin"

@@ -1116,3 +1116,25 @@ gTileset_BikeShopKanto::
 	.4byte gMetatiles_BikeShopKanto
 	.4byte gMetatileAttributes_BikeShopKanto
 	.4byte NULL
+
+	.align 2
+gTileset_PokemonDayCareKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PokemonDayCareKanto
+	.4byte gTilesetPalettes_PokemonDayCareKanto
+	.4byte gMetatiles_PokemonDayCareKanto
+	.4byte gMetatileAttributes_PokemonDayCareKanto
+	.4byte NULL
+
+	.align 2
+gTileset_VermilionGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_VermilionGym
+	.4byte gTilesetPalettes_VermilionGym
+	.4byte gMetatiles_VermilionGym
+	.4byte gMetatileAttributes_VermilionGym
+	.4byte sub_807031C
