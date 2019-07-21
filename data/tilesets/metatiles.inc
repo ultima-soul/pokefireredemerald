@@ -7,6 +7,22 @@ gMetatileAttributes_General:: @ 83980F0
 	.incbin "data/tilesets/primary/general/metatile_attributes.bin"
 
 	.align 1
+gMetatiles_GeneralKanto::
+	.incbin "data/tilesets/primary/general_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_GeneralKanto::
+	.incbin "data/tilesets/primary/general_kanto/metatile_attributes.bin"
+	
+	.align 1
+gMetatiles_InsideBuildingKanto::
+	.incbin "data/tilesets/primary/building_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_InsideBuildingKanto::
+	.incbin "data/tilesets/primary/building_kanto/metatile_attributes.bin"
+
+	.align 1
 gMetatiles_Pallet::
 	.incbin "data/tilesets/secondary/pallet/metatiles.bin"
 
@@ -653,3 +669,11 @@ gMetatiles_UnionRoom:: @ 83DF392
 	.align 1
 gMetatileAttributes_UnionRoom:: @ 83DF6A2
 	.incbin "data/tilesets/secondary/union_room/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_GenericBuildingKanto::
+	.incbin "data/tilesets/secondary/generic_building_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_GenericBuildingKanto::
+	.incbin "data/tilesets/secondary/generic_building_kanto/metatile_attributes.bin"

@@ -1,4 +1,50 @@
 	.align 2
+gTilesetTiles_GeneralKanto::
+	.incbin "data/tilesets/primary/general_kanto/tiles.4bpp"
+
+	.align 2
+gTilesetPalettes_GeneralKanto::
+	.incbin "data/tilesets/primary/general_kanto/palettes/00.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/01.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/02.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/03.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/04.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/05.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/06.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/07.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/08.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/09.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/primary/general_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_InsideBuildingKanto::
+	.incbin "data/tilesets/primary/building_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_InsideBuildingKanto::
+	.incbin "data/tilesets/primary/building_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/primary/building_kanto/palettes/15.gbapal"
+
+	.align 2
 gTilesetTiles_Pallet::
 	.incbin "data/tilesets/secondary/pallet/tiles.4bpp.lz"
 	
@@ -2005,3 +2051,26 @@ gTilesetPalettes_UnionRoom:: @ 8395678
 	.align 2
 gTilesetTiles_UnionRoom:: @ 8395878
 	.incbin "data/tilesets/secondary/union_room/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_GenericBuildingKanto::
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/generic_building_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_GenericBuildingKanto::
+	.incbin "data/tilesets/secondary/generic_building_kanto/tiles.4bpp.lz"

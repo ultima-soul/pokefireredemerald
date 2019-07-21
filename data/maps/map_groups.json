@@ -33,7 +33,8 @@
     "gMapGroup30",
     "gMapGroup31",
     "gMapGroup32",
-    "gMapGroup33"
+    "gMapGroup33",
+    "gMapGroup34"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -659,6 +660,9 @@
   ],
   "gMapGroup33": [
     "Route124_DivingTreasureHuntersHouse"
+  ],
+  "gMapGroup34": [
+    "PalletTown_RedsHouse_1F"
   ],
   "connections_include_order": [
     "LittlerootTown",

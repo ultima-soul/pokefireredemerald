@@ -10,6 +10,28 @@ gTileset_General:: @ 83DF704
 	.4byte InitTilesetAnim_General
 
 	.align 2
+gTileset_GeneralKanto::
+	.byte TRUE @ is compressed
+	.byte FALSE @ is secondary tileset
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_GeneralKanto
+	.4byte gTilesetPalettes_GeneralKanto
+	.4byte gMetatiles_GeneralKanto
+	.4byte gMetatileAttributes_GeneralKanto
+	.4byte sub_8070154
+	
+	.align 2
+gTileset_BuildingKanto::
+	.byte TRUE @ is compressed
+	.byte FALSE @ is secondary tileset
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_InsideBuildingKanto
+	.4byte gTilesetPalettes_InsideBuildingKanto
+	.4byte gMetatiles_InsideBuildingKanto
+	.4byte gMetatileAttributes_InsideBuildingKanto
+	.4byte NULL
+
+	.align 2
 gTileset_Pallet::
 	.byte TRUE @ is compressed
 	.byte TRUE @ is secondary
@@ -962,3 +984,15 @@ gTileset_UnionRoom:: @ 83DFDFC
 	.4byte gMetatiles_UnionRoom
 	.4byte gMetatileAttributes_UnionRoom
 	.4byte NULL @ animation callback
+
+	.align 2
+gTileset_GenericBuildingKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_GenericBuildingKanto
+	.4byte gTilesetPalettes_GenericBuildingKanto
+	.4byte gMetatiles_GenericBuildingKanto
+	.4byte gMetatileAttributes_GenericBuildingKanto
+	.4byte NULL
+	

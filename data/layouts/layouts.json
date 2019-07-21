@@ -8,7 +8,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Pallet",
       "border_filepath": "data/layouts/PalletTown/border.bin",
       "blockdata_filepath": "data/layouts/PalletTown/map.bin"
@@ -20,7 +20,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Viridian",
       "border_filepath": "data/layouts/ViridianCity/border.bin",
       "blockdata_filepath": "data/layouts/ViridianCity/map.bin"
@@ -32,7 +32,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/PewterCity/border.bin",
       "blockdata_filepath": "data/layouts/PewterCity/map.bin"
@@ -44,7 +44,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/CeruleanCity/border.bin",
       "blockdata_filepath": "data/layouts/CeruleanCity/map.bin"
@@ -56,7 +56,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Vermilion",
       "border_filepath": "data/layouts/VermilionCity/border.bin",
       "blockdata_filepath": "data/layouts/VermilionCity/map.bin"
@@ -68,7 +68,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/LavenderTown/border.bin",
       "blockdata_filepath": "data/layouts/LavenderTown/map.bin"
@@ -80,7 +80,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Celadon",
       "border_filepath": "data/layouts/CeladonCity/border.bin",
       "blockdata_filepath": "data/layouts/CeladonCity/map.bin"
@@ -92,7 +92,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/FuchsiaCity/border.bin",
       "blockdata_filepath": "data/layouts/FuchsiaCity/map.bin"
@@ -104,7 +104,7 @@
       "height": 55,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Saffron",
       "border_filepath": "data/layouts/SaffronCity/border.bin",
       "blockdata_filepath": "data/layouts/SaffronCity/map.bin"
@@ -116,7 +116,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Saffron",
       "border_filepath": "data/layouts/SaffronCity_Classic/border.bin",
       "blockdata_filepath": "data/layouts/SaffronCity_Classic/map.bin"
@@ -128,7 +128,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cinnabar",
       "border_filepath": "data/layouts/CinnabarIsland/border.bin",
       "blockdata_filepath": "data/layouts/CinnabarIsland/map.bin"
@@ -140,7 +140,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_IndigoPlateauExterior",
       "border_filepath": "data/layouts/IndigoPlateau_Exterior/border.bin",
       "blockdata_filepath": "data/layouts/IndigoPlateau_Exterior/map.bin"
@@ -152,7 +152,7 @@
       "height": 69,
       "border_width": 3,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_ViridianForest",
       "border_filepath": "data/layouts/ViridianForest/border.bin",
       "blockdata_filepath": "data/layouts/ViridianForest/map.bin"
@@ -324,7 +324,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Pallet",
       "border_filepath": "data/layouts/Route1/border.bin",
       "blockdata_filepath": "data/layouts/Route1/map.bin"
@@ -336,7 +336,7 @@
       "height": 80,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Viridian",
       "border_filepath": "data/layouts/Route2/border.bin",
       "blockdata_filepath": "data/layouts/Route2/map.bin"
@@ -348,7 +348,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/Route3/border.bin",
       "blockdata_filepath": "data/layouts/Route3/map.bin"
@@ -360,7 +360,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route4/border.bin",
       "blockdata_filepath": "data/layouts/Route4/map.bin"
@@ -372,7 +372,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route5/border.bin",
       "blockdata_filepath": "data/layouts/Route5/map.bin"
@@ -384,7 +384,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Vermilion",
       "border_filepath": "data/layouts/Route6/border.bin",
       "blockdata_filepath": "data/layouts/Route6/map.bin"
@@ -396,7 +396,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Celadon",
       "border_filepath": "data/layouts/Route7/border.bin",
       "blockdata_filepath": "data/layouts/Route7/map.bin"
@@ -408,7 +408,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route8/border.bin",
       "blockdata_filepath": "data/layouts/Route8/map.bin"
@@ -420,7 +420,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route9/border.bin",
       "blockdata_filepath": "data/layouts/Route9/map.bin"
@@ -432,7 +432,7 @@
       "height": 80,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route10/border.bin",
       "blockdata_filepath": "data/layouts/Route10/map.bin"
@@ -444,7 +444,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Vermilion",
       "border_filepath": "data/layouts/Route11/border.bin",
       "blockdata_filepath": "data/layouts/Route11/map.bin"
@@ -456,7 +456,7 @@
       "height": 120,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route12/border.bin",
       "blockdata_filepath": "data/layouts/Route12/map.bin"
@@ -468,7 +468,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route13/border.bin",
       "blockdata_filepath": "data/layouts/Route13/map.bin"
@@ -480,7 +480,7 @@
       "height": 60,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route14/border.bin",
       "blockdata_filepath": "data/layouts/Route14/map.bin"
@@ -492,7 +492,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/Route15/border.bin",
       "blockdata_filepath": "data/layouts/Route15/map.bin"
@@ -504,7 +504,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Celadon",
       "border_filepath": "data/layouts/Route16/border.bin",
       "blockdata_filepath": "data/layouts/Route16/map.bin"
@@ -516,7 +516,7 @@
       "height": 160,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Celadon",
       "border_filepath": "data/layouts/Route17/border.bin",
       "blockdata_filepath": "data/layouts/Route17/map.bin"
@@ -528,7 +528,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Celadon",
       "border_filepath": "data/layouts/Route18/border.bin",
       "blockdata_filepath": "data/layouts/Route18/map.bin"
@@ -540,7 +540,7 @@
       "height": 60,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/Route19/border.bin",
       "blockdata_filepath": "data/layouts/Route19/map.bin"
@@ -552,7 +552,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cinnabar",
       "border_filepath": "data/layouts/Route20/border.bin",
       "blockdata_filepath": "data/layouts/Route20/map.bin"
@@ -564,7 +564,7 @@
       "height": 50,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Pallet",
       "border_filepath": "data/layouts/Route21_North/border.bin",
       "blockdata_filepath": "data/layouts/Route21_North/map.bin"
@@ -576,7 +576,7 @@
       "height": 50,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cinnabar",
       "border_filepath": "data/layouts/Route21_South/border.bin",
       "blockdata_filepath": "data/layouts/Route21_South/map.bin"
@@ -588,7 +588,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Viridian",
       "border_filepath": "data/layouts/Route22/border.bin",
       "blockdata_filepath": "data/layouts/Route22/map.bin"
@@ -600,7 +600,7 @@
       "height": 160,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_IndigoPlateauExterior",
       "border_filepath": "data/layouts/Route23/border.bin",
       "blockdata_filepath": "data/layouts/Route23/map.bin"
@@ -612,7 +612,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route24/border.bin",
       "blockdata_filepath": "data/layouts/Route24/map.bin"
@@ -624,7 +624,7 @@
       "height": 20,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralKanto",
       "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route25/border.bin",
       "blockdata_filepath": "data/layouts/Route25/map.bin"
@@ -4878,6 +4878,18 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_PALLET_TOWN_REDS_HOUSE_1F",
+      "name": "PalletTown_RedsHouse_1F_Layout",
+      "width": 13,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/PalletTown_RedsHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/PalletTown_RedsHouse_1F/map.bin"
     }
   ]
 }

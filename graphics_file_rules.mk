@@ -59,7 +59,10 @@ $(CASTFORMGFXDIR)/shiny.gbapal: $(CASTFORMGFXDIR)/shiny_normal_form.gbapal \
 
 ### Tilesets ###
 
-$(TILESETGFXDIR)/primary/general/tiles.4bpp: %.4bpp: %.png
+$(TILESETGFXDIR)/primary/general_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 640
+
+$(TILESETGFXDIR)/primary/building_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 640
 
 $(TILESETGFXDIR)/secondary/pallet/tiles.4bpp: %.4bpp: %.png
@@ -289,6 +292,9 @@ $(TILESETGFXDIR)/secondary/battle_frontier_ranking_hall/tiles.4bpp: %.4bpp: %.pn
 
 $(TILESETGFXDIR)/secondary/mystery_events_house/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 509
+
+$(TILESETGFXDIR)/secondary/generic_building_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 63
 
 
 
