@@ -1061,4 +1061,25 @@ gTileset_PokemonCenterKanto::
 	.4byte gMetatiles_PokemonCenterKanto
 	.4byte gMetatileAttributes_PokemonCenterKanto
 	.4byte NULL
-	
+
+	.align 2
+gTileset_PewterMuseum::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PewterMuseum
+	.4byte gTilesetPalettes_PewterMuseum
+	.4byte gMetatiles_PewterMuseum
+	.4byte gMetatileAttributes_PewterMuseum
+	.4byte NULL
+
+	.align 2
+gTileset_PewterGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PewterGym
+	.4byte gTilesetPalettes_PewterGym
+	.4byte gMetatiles_PewterGym
+	.4byte gMetatileAttributes_PewterGym
+	.4byte NULL

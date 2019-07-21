@@ -4998,6 +4998,66 @@
       "secondary_tileset": "gTileset_PokemonCenterKanto",
       "border_filepath": "data/layouts/PokemonCenter_2F_Kanto/border.bin",
       "blockdata_filepath": "data/layouts/PokemonCenter_2F_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_MUSEUM_1F",
+      "name": "PewterCity_Museum_1F_Layout",
+      "width": 28,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterMuseum",
+      "border_filepath": "data/layouts/PewterCity_Museum_1F/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCity_Museum_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY_MUSEUM_2F",
+      "name": "PewterCity_Museum_2F_Layout",
+      "width": 19,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterMuseum",
+      "border_filepath": "data/layouts/PewterCity_Museum_2F/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCity_Museum_2F/map.bin"
+    },
+	{
+      "id": "LAYOUT_PEWTER_CITY_GYM",
+      "name": "PewterCity_Gym_Layout",
+      "width": 13,
+      "height": 16,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterGym",
+      "border_filepath": "data/layouts/PewterCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCity_Gym/map.bin"
+    },
+	{
+      "id": "LAYOUT_HOUSE1_KANTO",
+      "name": "House1_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/House1_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/House1_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_HOUSE2_KANTO",
+      "name": "House2_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/House2_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/House2_Kanto/map.bin"
     }
   ]
 }

@@ -35,7 +35,8 @@
     "gMapGroup32",
     "gMapGroup33",
     "gMapGroup34",
-	"gMapGroup35"
+	"gMapGroup35",
+	"gMapGroup36"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -675,6 +676,16 @@
     "ViridianCity_Mart",
     "ViridianCity_PokemonCenter_1F",
     "ViridianCity_PokemonCenter_2F"
+  ],
+  "gMapGroup36": [
+    "PewterCity_Museum_1F",
+    "PewterCity_Museum_2F",
+    "PewterCity_Gym",
+    "PewterCity_Mart",
+    "PewterCity_House1",
+    "PewterCity_PokemonCenter_1F",
+    "PewterCity_PokemonCenter_2F",
+    "PewterCity_House2"
   ],
   "connections_include_order": [
     "LittlerootTown",

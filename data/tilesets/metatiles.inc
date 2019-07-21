@@ -725,3 +725,19 @@ gMetatiles_PokemonCenterKanto::
 	.align 1
 gMetatileAttributes_PokemonCenterKanto::
 	.incbin "data/tilesets/secondary/pokemon_center_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PewterMuseum::
+	.incbin "data/tilesets/secondary/pewter_museum/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PewterMuseum::
+	.incbin "data/tilesets/secondary/pewter_museum/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PewterGym::
+	.incbin "data/tilesets/secondary/pewter_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PewterGym::
+	.incbin "data/tilesets/secondary/pewter_gym/metatile_attributes.bin"

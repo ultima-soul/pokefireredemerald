@@ -488,6 +488,14 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/ViridianCity_Mart/scripts.inc"
 	.include "data/maps/ViridianCity_PokemonCenter_1F/scripts.inc"
 	.include "data/maps/ViridianCity_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/PewterCity_Museum_1F/scripts.inc"
+	.include "data/maps/PewterCity_Museum_2F/scripts.inc"
+	.include "data/maps/PewterCity_Gym/scripts.inc"
+	.include "data/maps/PewterCity_Mart/scripts.inc"
+	.include "data/maps/PewterCity_House1/scripts.inc"
+	.include "data/maps/PewterCity_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/PewterCity_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/PewterCity_House2/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

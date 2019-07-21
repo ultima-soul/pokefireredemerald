@@ -314,6 +314,12 @@ $(TILESETGFXDIR)/secondary/shop_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/pokemon_center_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 376
 
+$(TILESETGFXDIR)/secondary/pewter_museum/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 137
+
+$(TILESETGFXDIR)/secondary/pewter_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 207
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

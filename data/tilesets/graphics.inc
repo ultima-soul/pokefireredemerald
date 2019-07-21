@@ -2212,3 +2212,49 @@ gTilesetPalettes_PokemonCenterKanto::
 	.incbin "data/tilesets/secondary/pokemon_center_kanto/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_center_kanto/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_center_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PewterMuseum::
+	.incbin "data/tilesets/secondary/pewter_museum/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PewterMuseum::
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pewter_museum/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PewterGym::
+	.incbin "data/tilesets/secondary/pewter_gym/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PewterGym::
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pewter_gym/palettes/15.gbapal"
