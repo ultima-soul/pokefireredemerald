@@ -1083,3 +1083,36 @@ gTileset_PewterGym::
 	.4byte gMetatiles_PewterGym
 	.4byte gMetatileAttributes_PewterGym
 	.4byte NULL
+
+	.align 2
+gTileset_RobbedHouse::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_RobbedHouse
+	.4byte gTilesetPalettes_RobbedHouse
+	.4byte gMetatiles_RobbedHouse
+	.4byte gMetatileAttributes_RobbedHouse
+	.4byte NULL
+
+	.align 2
+gTileset_CeruleanGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeruleanGym
+	.4byte gTilesetPalettes_CeruleanGym
+	.4byte gMetatiles_CeruleanGym
+	.4byte gMetatileAttributes_CeruleanGym
+	.4byte NULL
+
+	.align 2
+gTileset_BikeShopKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_BikeShopKanto
+	.4byte gTilesetPalettes_BikeShopKanto
+	.4byte gMetatiles_BikeShopKanto
+	.4byte gMetatileAttributes_BikeShopKanto
+	.4byte NULL

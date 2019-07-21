@@ -5035,6 +5035,42 @@
       "border_filepath": "data/layouts/PewterCity_Gym/border.bin",
       "blockdata_filepath": "data/layouts/PewterCity_Gym/map.bin"
     },
+    {
+      "id": "LAYOUT_HOUSE2_KANTO",
+      "name": "House2_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/House2_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/House2_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE1",
+      "name": "CeruleanCity_House1_Layout",
+      "width": 10,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/CeruleanCity_House1/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCity_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE2",
+      "name": "CeruleanCity_House2_Layout",
+      "width": 10,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_RobbedHouse",
+      "border_filepath": "data/layouts/CeruleanCity_House2/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCity_House2/map.bin"
+    },
 	{
       "id": "LAYOUT_HOUSE1_KANTO",
       "name": "House1_Kanto_Layout",
@@ -5048,16 +5084,40 @@
       "blockdata_filepath": "data/layouts/House1_Kanto/map.bin"
     },
     {
-      "id": "LAYOUT_HOUSE2_KANTO",
-      "name": "House2_Kanto_Layout",
+      "id": "LAYOUT_CERULEAN_CITY_GYM",
+      "name": "CeruleanCity_Gym_Layout",
+      "width": 17,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_CeruleanGym",
+      "border_filepath": "data/layouts/CeruleanCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCity_Gym/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_BIKE_SHOP",
+      "name": "CeruleanCity_BikeShop_Layout",
+      "width": 11,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_BikeShopKanto",
+      "border_filepath": "data/layouts/CeruleanCity_BikeShop/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCity_BikeShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CITY_HOUSE5",
+      "name": "CeruleanCity_House5_Layout",
       "width": 11,
       "height": 9,
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_BuildingKanto",
       "secondary_tileset": "gTileset_GateKanto",
-      "border_filepath": "data/layouts/House2_Kanto/border.bin",
-      "blockdata_filepath": "data/layouts/House2_Kanto/map.bin"
+      "border_filepath": "data/layouts/CeruleanCity_House5/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCity_House5/map.bin"
     }
   ]
 }

@@ -320,6 +320,15 @@ $(TILESETGFXDIR)/secondary/pewter_museum/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/pewter_gym/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 207
 
+$(TILESETGFXDIR)/secondary/robbed_house/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 172
+
+$(TILESETGFXDIR)/secondary/cerulean_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 119
+
+$(TILESETGFXDIR)/secondary/bike_shop_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 60
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

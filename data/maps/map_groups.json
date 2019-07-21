@@ -36,7 +36,8 @@
     "gMapGroup33",
     "gMapGroup34",
 	"gMapGroup35",
-	"gMapGroup36"
+	"gMapGroup36",
+	"gMapGroup37"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -686,6 +687,18 @@
     "PewterCity_PokemonCenter_1F",
     "PewterCity_PokemonCenter_2F",
     "PewterCity_House2"
+  ],
+  "gMapGroup37": [
+    "CeruleanCity_House1",
+    "CeruleanCity_House2",
+    "CeruleanCity_House3",
+    "CeruleanCity_PokemonCenter_1F",
+    "CeruleanCity_PokemonCenter_2F",
+    "CeruleanCity_Gym",
+    "CeruleanCity_BikeShop",
+    "CeruleanCity_Mart",
+    "CeruleanCity_House4",
+    "CeruleanCity_House5"
   ],
   "connections_include_order": [
     "LittlerootTown",

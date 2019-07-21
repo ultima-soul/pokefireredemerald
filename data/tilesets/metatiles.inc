@@ -741,3 +741,27 @@ gMetatiles_PewterGym::
 	.align 1
 gMetatileAttributes_PewterGym::
 	.incbin "data/tilesets/secondary/pewter_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_RobbedHouse::
+	.incbin "data/tilesets/secondary/robbed_house/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_RobbedHouse::
+	.incbin "data/tilesets/secondary/robbed_house/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CeruleanGym::
+	.incbin "data/tilesets/secondary/cerulean_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CeruleanGym::
+	.incbin "data/tilesets/secondary/cerulean_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_BikeShopKanto::
+	.incbin "data/tilesets/secondary/bike_shop_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_BikeShopKanto::
+	.incbin "data/tilesets/secondary/bike_shop_kanto/metatile_attributes.bin"
