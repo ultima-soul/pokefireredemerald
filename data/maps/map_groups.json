@@ -39,7 +39,8 @@
 	"gMapGroup36",
 	"gMapGroup37",
 	"gMapGroup38",
-	"gMapGroup39"
+	"gMapGroup39",
+	"gMapGroup40"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -719,6 +720,28 @@
     "LavenderTown_House1",
     "LavenderTown_House2",
     "LavenderTown_Mart"
+  ],
+  "gMapGroup40": [
+    "CeladonCity_DepartmentStore_1F",
+    "CeladonCity_DepartmentStore_2F",
+    "CeladonCity_DepartmentStore_3F",
+    "CeladonCity_DepartmentStore_4F",
+    "CeladonCity_DepartmentStore_5F",
+    "CeladonCity_DepartmentStore_Roof",
+    "CeladonCity_DepartmentStore_Elevator",
+    "CeladonCity_Condominiums_1F",
+    "CeladonCity_Condominiums_2F",
+    "CeladonCity_Condominiums_3F",
+    "CeladonCity_Condominiums_Roof",
+    "CeladonCity_Condominiums_RoofRoom",
+    "CeladonCity_PokemonCenter_1F",
+    "CeladonCity_PokemonCenter_2F",
+    "CeladonCity_GameCorner",
+    "CeladonCity_GameCorner_PrizeRoom",
+    "CeladonCity_Gym",
+    "CeladonCity_Restaurant",
+    "CeladonCity_House1",
+    "CeladonCity_Hotel"
   ],
   "connections_include_order": [
     "LittlerootTown",

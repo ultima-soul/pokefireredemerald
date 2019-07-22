@@ -335,6 +335,21 @@ $(TILESETGFXDIR)/secondary/pokemon_day_care_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/vermilion_gym/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 247
 
+$(TILESETGFXDIR)/secondary/department_store_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 201
+
+$(TILESETGFXDIR)/secondary/celadon_condominiums/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 384
+
+$(TILESETGFXDIR)/secondary/game_corner_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 171
+
+$(TILESETGFXDIR)/secondary/celadon_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 103
+
+$(TILESETGFXDIR)/secondary/celadon_hotel/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 76
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

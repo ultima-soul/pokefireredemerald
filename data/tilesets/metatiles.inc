@@ -781,3 +781,51 @@ gMetatiles_VermilionGym::
 	.align 1
 gMetatileAttributes_VermilionGym::
 	.incbin "data/tilesets/secondary/vermilion_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_DepartmentStoreKanto::
+	.incbin "data/tilesets/secondary/department_store_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_DepartmentStoreKanto::
+	.incbin "data/tilesets/secondary/department_store_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_RocketHideout::
+	.incbin "data/tilesets/secondary/rocket_hideout/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_RocketHideout::
+	.incbin "data/tilesets/secondary/rocket_hideout/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CeladonCondominiums::
+	.incbin "data/tilesets/secondary/celadon_condominiums/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CeladonCondominiums::
+	.incbin "data/tilesets/secondary/celadon_condominiums/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_GameCornerKanto::
+	.incbin "data/tilesets/secondary/game_corner_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_GameCornerKanto::
+	.incbin "data/tilesets/secondary/game_corner_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CeladonGym::
+	.incbin "data/tilesets/secondary/celadon_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CeladonGym::
+	.incbin "data/tilesets/secondary/celadon_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CeladonHotel::
+	.incbin "data/tilesets/secondary/celadon_hotel/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CeladonHotel::
+	.incbin "data/tilesets/secondary/celadon_hotel/metatile_attributes.bin"

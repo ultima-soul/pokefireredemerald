@@ -1138,3 +1138,69 @@ gTileset_VermilionGym::
 	.4byte gMetatiles_VermilionGym
 	.4byte gMetatileAttributes_VermilionGym
 	.4byte sub_807031C
+
+	.align 2
+gTileset_DepartmentStoreKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_DepartmentStoreKanto
+	.4byte gTilesetPalettes_DepartmentStoreKanto
+	.4byte gMetatiles_DepartmentStoreKanto
+	.4byte gMetatileAttributes_DepartmentStoreKanto
+	.4byte NULL
+
+	.align 2
+gTileset_RocketHideout::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeladonCondominiums
+	.4byte gTilesetPalettes_CeladonCondominiums
+	.4byte gMetatiles_RocketHideout
+	.4byte gMetatileAttributes_RocketHideout
+	.4byte sub_8070250
+
+	.align 2
+gTileset_CeladonCondominiums::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeladonCondominiums
+	.4byte gTilesetPalettes_CeladonCondominiums
+	.4byte gMetatiles_CeladonCondominiums
+	.4byte gMetatileAttributes_CeladonCondominiums
+	.4byte NULL
+
+	.align 2
+gTileset_GameCornerKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_GameCornerKanto
+	.4byte gTilesetPalettes_GameCornerKanto
+	.4byte gMetatiles_GameCornerKanto
+	.4byte gMetatileAttributes_GameCornerKanto
+	.4byte NULL
+
+	.align 2
+gTileset_CeladonGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeladonGym
+	.4byte gTilesetPalettes_CeladonGym
+	.4byte gMetatiles_CeladonGym
+	.4byte gMetatileAttributes_CeladonGym
+	.4byte sub_8070380
+
+	.align 2
+gTileset_CeladonHotel::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeladonHotel
+	.4byte gTilesetPalettes_CeladonHotel
+	.4byte gMetatiles_CeladonHotel
+	.4byte gMetatileAttributes_CeladonHotel
+	.4byte NULL
