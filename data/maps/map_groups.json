@@ -38,7 +38,8 @@
 	"gMapGroup35",
 	"gMapGroup36",
 	"gMapGroup37",
-	"gMapGroup38"
+	"gMapGroup38",
+	"gMapGroup39"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -710,6 +711,14 @@
     "VermilionCity_Mart",
     "VermilionCity_Gym",
     "VermilionCity_House3"
+  ],
+  "gMapGroup39": [
+    "LavenderTown_PokemonCenter_1F",
+    "LavenderTown_PokemonCenter_2F",
+    "LavenderTown_VolunteerPokemonHouse",
+    "LavenderTown_House1",
+    "LavenderTown_House2",
+    "LavenderTown_Mart"
   ],
   "connections_include_order": [
     "LittlerootTown",

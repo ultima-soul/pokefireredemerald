@@ -513,6 +513,12 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/VermilionCity_Mart/scripts.inc"
 	.include "data/maps/VermilionCity_Gym/scripts.inc"
 	.include "data/maps/VermilionCity_House3/scripts.inc"
+	.include "data/maps/LavenderTown_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/LavenderTown_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/LavenderTown_VolunteerPokemonHouse/scripts.inc"
+	.include "data/maps/LavenderTown_House1/scripts.inc"
+	.include "data/maps/LavenderTown_House2/scripts.inc"
+	.include "data/maps/LavenderTown_Mart/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

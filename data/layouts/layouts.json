@@ -5142,6 +5142,30 @@
       "secondary_tileset": "gTileset_VermilionGym",
       "border_filepath": "data/layouts/VermilionCity_Gym/border.bin",
       "blockdata_filepath": "data/layouts/VermilionCity_Gym/map.bin"
+    },
+	{
+      "id": "LAYOUT_LAVENDER_TOWN_VOLUNTEER_POKEMON_HOUSE",
+      "name": "LavenderTown_VolunteerPokemonHouse_Layout",
+      "width": 12,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonDayCareKanto",
+      "border_filepath": "data/layouts/LavenderTown_VolunteerPokemonHouse/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTown_VolunteerPokemonHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_HOUSE5_KANTO",
+      "name": "House5_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/House5_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/House5_Kanto/map.bin"
     }
   ]
 }
