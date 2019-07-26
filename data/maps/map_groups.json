@@ -43,7 +43,8 @@
 	"gMapGroup40",
 	"gMapGroup41",
 	"gMapGroup42",
-	"gMapGroup43"
+	"gMapGroup43",
+	"gMapGroup44"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -779,6 +780,10 @@
     "CinnabarIsland_PokemonCenter_1F",
     "CinnabarIsland_PokemonCenter_2F",
     "CinnabarIsland_Mart"
+  ],
+  "gMapGroup44": [
+    "IndigoPlateau_PokemonCenter_1F",
+    "IndigoPlateau_PokemonCenter_2F"
   ],
   "connections_include_order": [
     "LittlerootTown",
