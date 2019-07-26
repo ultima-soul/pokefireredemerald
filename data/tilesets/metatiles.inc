@@ -845,3 +845,11 @@ gMetatiles_FuchsiaGym::
 	.align 1
 gMetatileAttributes_FuchsiaGym::
 	.incbin "data/tilesets/secondary/fuchsia_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_SaffronGym::
+	.incbin "data/tilesets/secondary/saffron_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_SaffronGym::
+	.incbin "data/tilesets/secondary/saffron_gym/metatile_attributes.bin"

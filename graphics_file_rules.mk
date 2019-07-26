@@ -356,6 +356,9 @@ $(TILESETGFXDIR)/secondary/safari_zone_building_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/fuchsia_gym/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 92
 
+$(TILESETGFXDIR)/secondary/saffron_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 82
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

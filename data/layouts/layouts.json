@@ -5430,6 +5430,66 @@
       "secondary_tileset": "gTileset_PewterMuseum",
       "border_filepath": "data/layouts/FuchsiaCity_House2/border.bin",
       "blockdata_filepath": "data/layouts/FuchsiaCity_House2/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFFRON_CITY_HOUSE1_1F",
+      "name": "SaffronCity_House1_1F_Layout",
+      "width": 13,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/SaffronCity_House1_1F/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_House1_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_HOUSE1_2F",
+      "name": "SaffronCity_House1_2F_Layout",
+      "width": 12,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GenericBuildingKanto",
+      "border_filepath": "data/layouts/SaffronCity_House1_2F/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_House1_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFFRON_CITY_DOJO",
+      "name": "SaffronCity_Dojo_Layout",
+      "width": 13,
+      "height": 16,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterGym",
+      "border_filepath": "data/layouts/SaffronCity_Dojo/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_Dojo/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFFRON_CITY_GYM",
+      "name": "SaffronCity_Gym_Layout",
+      "width": 29,
+      "height": 25,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SaffronGym",
+      "border_filepath": "data/layouts/SaffronCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_Gym/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFFRON_CITY_POKEMON_TRAINER_FAN_CLUB",
+      "name": "SaffronCity_PokemonTrainerFanClub_Layout",
+      "width": 11,
+      "height": 17,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonDayCareKanto",
+      "border_filepath": "data/layouts/SaffronCity_PokemonTrainerFanClub/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_PokemonTrainerFanClub/map.bin"
     }
   ]
 }

@@ -41,7 +41,8 @@
 	"gMapGroup38",
 	"gMapGroup39",
 	"gMapGroup40",
-	"gMapGroup41"
+	"gMapGroup41",
+	"gMapGroup42"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -755,6 +756,18 @@
     "FuchsiaCity_Building1",
     "FuchsiaCity_House2",
     "FuchsiaCity_House3"
+  ],
+  "gMapGroup42": [
+    "SaffronCity_House1_1F",
+    "SaffronCity_House1_2F",
+    "SaffronCity_Dojo",
+    "SaffronCity_Gym",
+    "SaffronCity_House2",
+    "SaffronCity_Mart",
+    "SaffronCity_PokemonCenter_1F",
+    "SaffronCity_PokemonCenter_2F",
+    "SaffronCity_House3",
+    "SaffronCity_PokemonTrainerFanClub"
   ],
   "connections_include_order": [
     "LittlerootTown",

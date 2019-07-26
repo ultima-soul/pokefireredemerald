@@ -1226,3 +1226,14 @@ gTileset_FuchsiaGym::
 	.4byte gMetatiles_FuchsiaGym
 	.4byte gMetatileAttributes_FuchsiaGym
 	.4byte NULL
+
+	.align 2
+gTileset_SaffronGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_SaffronGym
+	.4byte gTilesetPalettes_SaffronGym
+	.4byte gMetatiles_SaffronGym
+	.4byte gMetatileAttributes_SaffronGym
+	.4byte NULL

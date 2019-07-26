@@ -549,6 +549,16 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/FuchsiaCity_Building1/scripts.inc"
 	.include "data/maps/FuchsiaCity_House2/scripts.inc"
 	.include "data/maps/FuchsiaCity_House3/scripts.inc"
+	.include "data/maps/SaffronCity_House1_1F/scripts.inc"
+	.include "data/maps/SaffronCity_House1_2F/scripts.inc"
+	.include "data/maps/SaffronCity_Dojo/scripts.inc"
+	.include "data/maps/SaffronCity_Gym/scripts.inc"
+	.include "data/maps/SaffronCity_House2/scripts.inc"
+	.include "data/maps/SaffronCity_Mart/scripts.inc"
+	.include "data/maps/SaffronCity_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/SaffronCity_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/SaffronCity_House3/scripts.inc"
+	.include "data/maps/SaffronCity_PokemonTrainerFanClub/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
