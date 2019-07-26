@@ -1,7 +1,7 @@
-ViridianCity_House2_MapScripts:: @ 816A07C
+ViridianCity_TrainersSchool_MapScripts:: @ 816A07C
 	.byte 0
 
-ViridianCity_House2_EventScript_16A07D:: @ 816A07D
+ViridianCity_TrainersSchool_EventScript_16A07D:: @ 816A07D
 	lock
 	faceplayer
 	msgbox gUnknown_818FC00
@@ -11,7 +11,7 @@ ViridianCity_House2_EventScript_16A07D:: @ 816A07D
 	release
 	end
 
-ViridianCity_House2_EventScript_16A094:: @ 816A094
+ViridianCity_TrainersSchool_EventScript_16A094:: @ 816A094
 	lock
 	faceplayer
 	msgbox gUnknown_818FC2B
@@ -21,7 +21,7 @@ ViridianCity_House2_EventScript_16A094:: @ 816A094
 	release
 	end
 
-ViridianCity_House2_EventScript_16A0AB:: @ 816A0AB
+ViridianCity_TrainersSchool_EventScript_16A0AB:: @ 816A0AB
 	lockall
 	msgbox gUnknown_818FC65
 	msgbox gUnknown_818FF19, MSGBOX_YESNO
@@ -47,7 +47,7 @@ EventScript_16A11B:: @ 816A11B
 	releaseall
 	end
 
-ViridianCity_House2_EventScript_16A11D:: @ 816A11D
+ViridianCity_TrainersSchool_EventScript_16A11D:: @ 816A11D
 	lockall
 	msgbox gUnknown_818FF4B
 	goto EventScript_16A12C

@@ -13,7 +13,32 @@
   "battle_scene": "BATTLE_SCENE_0",
   "connections": null,
   "object_events": [
-
+    {
+      "graphics_id": "28",
+      "x": 6,
+      "y": 2,
+      "elevation": 3,
+      "movement_type": "8",
+      "movement_range_x": 1,
+      "movement_range_y": 1,
+      "trainer_type": 0,
+      "trainer_sight_or_berry_tree_id": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_16A094",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "22",
+      "x": 4,
+      "y": 5,
+      "elevation": 3,
+      "movement_type": "7",
+      "movement_range_x": 1,
+      "movement_range_y": 1,
+      "trainer_type": 0,
+      "trainer_sight_or_berry_tree_id": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_16A07D",
+      "flag": "0"
+    }
   ],
   "warp_events": [
     {
@@ -40,6 +65,40 @@
   ],
   "coord_events": [],
   "bg_events": [
-
+    {
+      "type": "bg_event_type_0",
+      "x": 4,
+      "y": 4,
+      "elevation": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_16A0AB"
+    },
+    {
+      "type": "bg_event_type_0",
+      "x": 5,
+      "y": 1,
+      "elevation": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_16A11D"
+    },
+    {
+      "type": "bg_event_type_0",
+      "x": 4,
+      "y": 1,
+      "elevation": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_16A11D"
+    },
+    {
+      "type": "bg_event_type_1",
+      "x": 9,
+      "y": 2,
+      "elevation": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_1ACD65"
+    },
+    {
+      "type": "bg_event_type_1",
+      "x": 8,
+      "y": 2,
+      "elevation": 0,
+      "script": "ViridianCity_TrainersSchool_EventScript_1ACD65"
+    }
   ]
 }
