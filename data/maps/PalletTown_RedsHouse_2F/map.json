@@ -24,6 +24,26 @@
   ],
   "coord_events": [],
   "bg_events": [
-
+    {
+      "type": "bg_event_type_0",
+      "x": 6,
+      "y": 5,
+      "elevation": 3,
+      "script": "PalletTown_RedsHouse_2F_EventScript_168CD2"
+    },
+    {
+      "type": "bg_event_type_0",
+      "x": 1,
+      "y": 1,
+      "elevation": 0,
+      "script": "PalletTown_RedsHouse_2F_EventScript_168CE4"
+    },
+    {
+      "type": "bg_event_type_0",
+      "x": 11,
+      "y": 1,
+      "elevation": 0,
+      "script": "PalletTown_RedsHouse_2F_EventScript_168CDB"
+    }
   ]
 }

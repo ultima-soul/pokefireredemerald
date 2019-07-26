@@ -1,8 +1,8 @@
-PalletTown_GarysHouse_MapScripts:: @ 8168D27
-	map_script 3, PalletTown_GarysHouse_MapScript1_168D2D
+PalletTown_BluesHouse_MapScripts:: @ 8168D27
+	map_script 3, PalletTown_BluesHouse_MapScript1_168D2D
 	.byte 0
 
-PalletTown_GarysHouse_MapScript1_168D2D:: @ 8168D2D
+PalletTown_BluesHouse_MapScript1_168D2D:: @ 8168D2D
 	compare_var_to_value VAR_0x4058, 2
 	call_if 0, EventScript_168D44
 	compare_var_to_value VAR_0x4058, 2
@@ -18,7 +18,7 @@ EventScript_168D50:: @ 8168D50
 	setvar VAR_0x4001, 1
 	return
 
-PalletTown_GarysHouse_EventScript_168D56:: @ 8168D56
+PalletTown_BluesHouse_EventScript_168D56:: @ 8168D56
 	lock
 	faceplayer
 	setvar VAR_0x8004, 1
@@ -170,14 +170,14 @@ EventScript_168F59:: @ 8168F59
 	release
 	end
 
-PalletTown_GarysHouse_EventScript_168F63:: @ 8168F63
+PalletTown_BluesHouse_EventScript_168F63:: @ 8168F63
 	msgbox gUnknown_818D763, 2
 	end
 
-PalletTown_GarysHouse_EventScript_168F6C:: @ 8168F6C
+PalletTown_BluesHouse_EventScript_168F6C:: @ 8168F6C
 	msgbox gUnknown_818D7A1, 3
 	end
 
-PalletTown_GarysHouse_EventScript_168F75:: @ 8168F75
+PalletTown_BluesHouse_EventScript_168F75:: @ 8168F75
 	msgbox gUnknown_818DC47, 3
 	end

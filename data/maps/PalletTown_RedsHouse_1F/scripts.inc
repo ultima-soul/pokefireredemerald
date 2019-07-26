@@ -1,7 +1,7 @@
-PalletTown_PlayersHouse_1F_MapScripts:: @ 8168C08
+PalletTown_RedsHouse_1F_MapScripts:: @ 8168C08
 	.byte 0
 
-PalletTown_PlayersHouse_1F_EventScript_168C09:: @ 8168C09
+PalletTown_RedsHouse_1F_EventScript_168C09:: @ 8168C09
 	lock
 	faceplayer
 	checkflag FLAG_0x258
@@ -33,7 +33,7 @@ EventScript_168C4A:: @ 8168C4A
 	release
 	end
 
-PalletTown_PlayersHouse_1F_EventScript_168C62:: @ 8168C62
+PalletTown_RedsHouse_1F_EventScript_168C62:: @ 8168C62
 	lockall
 	compare_var_to_value VAR_FACING, 2
 	goto_if_eq EventScript_168C78
