@@ -2557,3 +2557,26 @@ gTilesetPalettes_SaffronGym::
 	.incbin "data/tilesets/secondary/saffron_gym/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/saffron_gym/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/saffron_gym/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_CinnabarGym::
+	.incbin "data/tilesets/secondary/cinnabar_gym/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_CinnabarGym::
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/15.gbapal"

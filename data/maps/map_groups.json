@@ -42,7 +42,8 @@
 	"gMapGroup39",
 	"gMapGroup40",
 	"gMapGroup41",
-	"gMapGroup42"
+	"gMapGroup42",
+	"gMapGroup43"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -768,6 +769,16 @@
     "SaffronCity_PokemonCenter_2F",
     "SaffronCity_House3",
     "SaffronCity_PokemonTrainerFanClub"
+  ],
+  "gMapGroup43": [
+    "CinnabarIsland_Gym",
+    "CinnabarIsland_PokemonLab_Entrance",
+    "CinnabarIsland_PokemonLab_Lounge",
+    "CinnabarIsland_PokemonLab_ResearchRoom",
+    "CinnabarIsland_PokemonLab_ExperimentRoom",
+    "CinnabarIsland_PokemonCenter_1F",
+    "CinnabarIsland_PokemonCenter_2F",
+    "CinnabarIsland_Mart"
   ],
   "connections_include_order": [
     "LittlerootTown",

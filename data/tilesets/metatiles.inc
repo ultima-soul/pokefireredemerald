@@ -853,3 +853,11 @@ gMetatiles_SaffronGym::
 	.align 1
 gMetatileAttributes_SaffronGym::
 	.incbin "data/tilesets/secondary/saffron_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CinnabarGym::
+	.incbin "data/tilesets/secondary/cinnabar_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CinnabarGym::
+	.incbin "data/tilesets/secondary/cinnabar_gym/metatile_attributes.bin"

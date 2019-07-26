@@ -559,6 +559,14 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SaffronCity_PokemonCenter_2F/scripts.inc"
 	.include "data/maps/SaffronCity_House3/scripts.inc"
 	.include "data/maps/SaffronCity_PokemonTrainerFanClub/scripts.inc"
+	.include "data/maps/CinnabarIsland_Gym/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonLab_Entrance/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonLab_Lounge/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonLab_ResearchRoom/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonLab_ExperimentRoom/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/CinnabarIsland_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/CinnabarIsland_Mart/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

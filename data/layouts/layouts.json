@@ -5490,6 +5490,66 @@
       "secondary_tileset": "gTileset_PokemonDayCareKanto",
       "border_filepath": "data/layouts/SaffronCity_PokemonTrainerFanClub/border.bin",
       "blockdata_filepath": "data/layouts/SaffronCity_PokemonTrainerFanClub/map.bin"
+    },
+	{
+      "id": "LAYOUT_CINNABAR_ISLAND_GYM",
+      "name": "CinnabarIsland_Gym_Layout",
+      "width": 30,
+      "height": 25,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_CinnabarGym",
+      "border_filepath": "data/layouts/CinnabarIsland_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland_Gym/map.bin"
+    },
+	{
+      "id": "LAYOUT_CINNABAR_ISLAND_POKEMON_LAB_ENTRANCE",
+      "name": "CinnabarIsland_PokemonLab_Entrance_Layout",
+      "width": 28,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_LabKanto",
+      "border_filepath": "data/layouts/CinnabarIsland_PokemonLab_Entrance/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland_PokemonLab_Entrance/map.bin"
+    },
+    {
+      "id": "LAYOUT_CINNABAR_ISLAND_POKEMON_LAB_LOUNGE",
+      "name": "CinnabarIsland_PokemonLab_Lounge_Layout",
+      "width": 15,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_LabKanto",
+      "border_filepath": "data/layouts/CinnabarIsland_PokemonLab_Lounge/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland_PokemonLab_Lounge/map.bin"
+    },
+    {
+      "id": "LAYOUT_CINNABAR_ISLAND_POKEMON_LAB_RESEARCH_ROOM",
+      "name": "CinnabarIsland_PokemonLab_ResearchRoom_Layout",
+      "width": 15,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_LabKanto",
+      "border_filepath": "data/layouts/CinnabarIsland_PokemonLab_ResearchRoom/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland_PokemonLab_ResearchRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+      "name": "CinnabarIsland_PokemonLab_ExperimentRoom_Layout",
+      "width": 15,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_LabKanto",
+      "border_filepath": "data/layouts/CinnabarIsland_PokemonLab_ExperimentRoom/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland_PokemonLab_ExperimentRoom/map.bin"
     }
   ]
 }

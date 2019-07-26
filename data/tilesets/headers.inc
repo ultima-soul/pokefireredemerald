@@ -1237,3 +1237,14 @@ gTileset_SaffronGym::
 	.4byte gMetatiles_SaffronGym
 	.4byte gMetatileAttributes_SaffronGym
 	.4byte NULL
+
+	.align 2
+gTileset_CinnabarGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CinnabarGym
+	.4byte gTilesetPalettes_CinnabarGym
+	.4byte gMetatiles_CinnabarGym
+	.4byte gMetatileAttributes_CinnabarGym
+	.4byte NULL
