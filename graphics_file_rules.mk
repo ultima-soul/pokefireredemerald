@@ -350,6 +350,12 @@ $(TILESETGFXDIR)/secondary/celadon_gym/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/celadon_hotel/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 76
 
+$(TILESETGFXDIR)/secondary/safari_zone_building_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 90
+
+$(TILESETGFXDIR)/secondary/fuchsia_gym/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 92
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

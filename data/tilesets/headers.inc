@@ -1204,3 +1204,25 @@ gTileset_CeladonHotel::
 	.4byte gMetatiles_CeladonHotel
 	.4byte gMetatileAttributes_CeladonHotel
 	.4byte NULL
+
+	.align 2
+gTileset_SafariZoneBuildingKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_SafariZoneBuildingKanto
+	.4byte gTilesetPalettes_SafariZoneBuildingKanto
+	.4byte gMetatiles_SafariZoneBuildingKanto
+	.4byte gMetatileAttributes_SafariZoneBuildingKanto
+	.4byte NULL
+
+	.align 2
+gTileset_FuchsiaGym::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_FuchsiaGym
+	.4byte gTilesetPalettes_FuchsiaGym
+	.4byte gMetatiles_FuchsiaGym
+	.4byte gMetatileAttributes_FuchsiaGym
+	.4byte NULL

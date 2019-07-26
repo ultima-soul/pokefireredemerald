@@ -5370,6 +5370,66 @@
       "secondary_tileset": "gTileset_CeladonHotel",
       "border_filepath": "data/layouts/CeladonCity_Hotel/border.bin",
       "blockdata_filepath": "data/layouts/CeladonCity_Hotel/map.bin"
+    },
+	{
+      "id": "LAYOUT_FUCHSIA_CITY_SAFARI_ZONE_ENTRANCE",
+      "name": "FuchsiaCity_SafariZone_Entrance_Layout",
+      "width": 9,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SafariZoneBuildingKanto",
+      "border_filepath": "data/layouts/FuchsiaCity_SafariZone_Entrance/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCity_SafariZone_Entrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_FUCHSIA_CITY_ZOO_BUILDING",
+      "name": "FuchsiaCity_ZooBuilding_Layout",
+      "width": 20,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SafariZoneBuildingKanto",
+      "border_filepath": "data/layouts/FuchsiaCity_ZooBuilding/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCity_ZooBuilding/map.bin"
+    },
+	{
+      "id": "LAYOUT_FUCHSIA_CITY_GYM",
+      "name": "FuchsiaCity_Gym_Layout",
+      "width": 15,
+      "height": 23,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_FuchsiaGym",
+      "border_filepath": "data/layouts/FuchsiaCity_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCity_Gym/map.bin"
+    },
+	{
+      "id": "LAYOUT_FUCHSIA_CITY_BUILDING1",
+      "name": "FuchsiaCity_Building1_Layout",
+      "width": 13,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterMuseum",
+      "border_filepath": "data/layouts/FuchsiaCity_Building1/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCity_Building1/map.bin"
+    },
+	{
+      "id": "LAYOUT_FUCHSIA_CITY_HOUSE2",
+      "name": "FuchsiaCity_House2_Layout",
+      "width": 10,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PewterMuseum",
+      "border_filepath": "data/layouts/FuchsiaCity_House2/border.bin",
+      "blockdata_filepath": "data/layouts/FuchsiaCity_House2/map.bin"
     }
   ]
 }

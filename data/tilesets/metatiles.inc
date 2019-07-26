@@ -829,3 +829,19 @@ gMetatiles_CeladonHotel::
 	.align 1
 gMetatileAttributes_CeladonHotel::
 	.incbin "data/tilesets/secondary/celadon_hotel/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_SafariZoneBuildingKanto::
+	.incbin "data/tilesets/secondary/safari_zone_building_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_SafariZoneBuildingKanto::
+	.incbin "data/tilesets/secondary/safari_zone_building_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_FuchsiaGym::
+	.incbin "data/tilesets/secondary/fuchsia_gym/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_FuchsiaGym::
+	.incbin "data/tilesets/secondary/fuchsia_gym/metatile_attributes.bin"

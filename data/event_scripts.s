@@ -539,6 +539,16 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/CeladonCity_Restaurant/scripts.inc"
 	.include "data/maps/CeladonCity_House1/scripts.inc"
 	.include "data/maps/CeladonCity_Hotel/scripts.inc"
+	.include "data/maps/FuchsiaCity_SafariZone_Entrance/scripts.inc"
+	.include "data/maps/FuchsiaCity_Mart/scripts.inc"
+	.include "data/maps/FuchsiaCity_ZooBuilding/scripts.inc"
+	.include "data/maps/FuchsiaCity_Gym/scripts.inc"
+	.include "data/maps/FuchsiaCity_House1/scripts.inc"
+	.include "data/maps/FuchsiaCity_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/FuchsiaCity_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/FuchsiaCity_Building1/scripts.inc"
+	.include "data/maps/FuchsiaCity_House2/scripts.inc"
+	.include "data/maps/FuchsiaCity_House3/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

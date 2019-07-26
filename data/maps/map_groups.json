@@ -40,7 +40,8 @@
 	"gMapGroup37",
 	"gMapGroup38",
 	"gMapGroup39",
-	"gMapGroup40"
+	"gMapGroup40",
+	"gMapGroup41"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -742,6 +743,18 @@
     "CeladonCity_Restaurant",
     "CeladonCity_House1",
     "CeladonCity_Hotel"
+  ],
+  "gMapGroup41": [
+    "FuchsiaCity_SafariZone_Entrance",
+    "FuchsiaCity_Mart",
+    "FuchsiaCity_ZooBuilding",
+    "FuchsiaCity_Gym",
+    "FuchsiaCity_House1",
+    "FuchsiaCity_PokemonCenter_1F",
+    "FuchsiaCity_PokemonCenter_2F",
+    "FuchsiaCity_Building1",
+    "FuchsiaCity_House2",
+    "FuchsiaCity_House3"
   ],
   "connections_include_order": [
     "LittlerootTown",
