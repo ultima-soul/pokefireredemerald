@@ -44,7 +44,8 @@
 	"gMapGroup41",
 	"gMapGroup42",
 	"gMapGroup43",
-	"gMapGroup44"
+	"gMapGroup44",
+	"gMapGroup45"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -784,6 +785,12 @@
   "gMapGroup44": [
     "IndigoPlateau_PokemonCenter_1F",
     "IndigoPlateau_PokemonCenter_2F"
+  ],
+  "gMapGroup45": [
+    "Route2_ViridianForest_SouthEntrance",
+    "Route2_House",
+    "Route2_EastBuilding",
+    "Route2_ViridianForest_NorthEntrance"
   ],
   "connections_include_order": [
     "LittlerootTown",

@@ -569,6 +569,10 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/CinnabarIsland_Mart/scripts.inc"
 	.include "data/maps/IndigoPlateau_PokemonCenter_1F/scripts.inc"
 	.include "data/maps/IndigoPlateau_PokemonCenter_2F/scripts.inc"
+	.include "data/maps/Route2_ViridianForest_SouthEntrance/scripts.inc"
+	.include "data/maps/Route2_House/scripts.inc"
+	.include "data/maps/Route2_EastBuilding/scripts.inc"
+	.include "data/maps/Route2_ViridianForest_NorthEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

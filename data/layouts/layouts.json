@@ -5562,6 +5562,18 @@
       "secondary_tileset": "gTileset_PokemonCenterKanto",
       "border_filepath": "data/layouts/IndigoPlateau_PokemonCenter_1F/border.bin",
       "blockdata_filepath": "data/layouts/IndigoPlateau_PokemonCenter_1F/map.bin"
+    },
+	{
+      "id": "LAYOUT_ROUTE2_ENTRANCE",
+      "name": "Route2_Entrance_Layout",
+      "width": 15,
+      "height": 12,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/Route2_Entrance/border.bin",
+      "blockdata_filepath": "data/layouts/Route2_Entrance/map.bin"
     }
   ]
 }
