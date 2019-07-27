@@ -49,7 +49,8 @@
 	"gMapGroup46",
 	"gMapGroup47",
 	"gMapGroup48",
-	"gMapGroup49"
+	"gMapGroup49",
+	"gMapGroup50"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -809,6 +810,9 @@
   ],
   "gMapGroup49": [
     "Route7_EastEntrance"
+  ],
+  "gMapGroup50": [
+    "Route8_WestEntrance"
   ],
   "connections_include_order": [
     "LittlerootTown",

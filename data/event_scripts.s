@@ -579,6 +579,7 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/Route5_SouthEntrance/scripts.inc"
 	.include "data/maps/Route6_NorthEntrance/scripts.inc"
 	.include "data/maps/Route7_EastEntrance/scripts.inc"
+	.include "data/maps/Route8_WestEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
