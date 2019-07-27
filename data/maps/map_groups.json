@@ -50,7 +50,8 @@
 	"gMapGroup47",
 	"gMapGroup48",
 	"gMapGroup49",
-	"gMapGroup50"
+	"gMapGroup50",
+	"gMapGroup51"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -813,6 +814,10 @@
   ],
   "gMapGroup50": [
     "Route8_WestEntrance"
+  ],
+  "gMapGroup51": [
+    "Route10_PokemonCenter_1F",
+    "Route10_PokemonCenter_2F"
   ],
   "connections_include_order": [
     "LittlerootTown",
