@@ -577,6 +577,7 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/Route4_PokemonCenter_2F/scripts.inc"
 	.include "data/maps/Route5_PokemonDayCare/scripts.inc"
 	.include "data/maps/Route5_SouthEntrance/scripts.inc"
+	.include "data/maps/Route6_NorthEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
