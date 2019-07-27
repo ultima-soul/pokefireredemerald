@@ -5610,6 +5610,30 @@
       "secondary_tileset": "gTileset_GateKanto",
       "border_filepath": "data/layouts/SaffronCity_EastWestEntrance/border.bin",
       "blockdata_filepath": "data/layouts/SaffronCity_EastWestEntrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_ENTRANCE_1F",
+      "name": "Entrance_1F_Layout",
+      "width": 13,
+      "height": 12,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/Entrance_1F/border.bin",
+      "blockdata_filepath": "data/layouts/Entrance_1F/map.bin"
+    },
+	{
+      "id": "LAYOUT_ENTRANCE_2F",
+      "name": "Entrance_2F_Layout",
+      "width": 13,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/Entrance_2F/border.bin",
+      "blockdata_filepath": "data/layouts/Entrance_2F/map.bin"
     }
   ]
 }
