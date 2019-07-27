@@ -46,7 +46,8 @@
 	"gMapGroup43",
 	"gMapGroup44",
 	"gMapGroup45",
-	"gMapGroup46"
+	"gMapGroup46",
+	"gMapGroup47"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -796,6 +797,10 @@
   "gMapGroup46": [
     "Route4_PokemonCenter_1F",
     "Route4_PokemonCenter_2F"
+  ],
+  "gMapGroup47": [
+    "Route5_PokemonDayCare",
+    "Route5_SouthEntrance"
   ],
   "connections_include_order": [
     "LittlerootTown",
