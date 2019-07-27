@@ -573,6 +573,8 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/Route2_House/scripts.inc"
 	.include "data/maps/Route2_EastBuilding/scripts.inc"
 	.include "data/maps/Route2_ViridianForest_NorthEntrance/scripts.inc"
+	.include "data/maps/Route4_PokemonCenter_1F/scripts.inc"
+	.include "data/maps/Route4_PokemonCenter_2F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
