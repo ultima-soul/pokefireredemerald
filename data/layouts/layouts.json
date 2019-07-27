@@ -5598,6 +5598,18 @@
       "secondary_tileset": "gTileset_GateKanto",
       "border_filepath": "data/layouts/SaffronCity_NorthSouthEntrance/border.bin",
       "blockdata_filepath": "data/layouts/SaffronCity_NorthSouthEntrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFFRON_CITY_EAST_WEST_ENTRANCE",
+      "name": "SaffronCity_EastWestEntrance_Layout",
+      "width": 13,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/SaffronCity_EastWestEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/SaffronCity_EastWestEntrance/map.bin"
     }
   ]
 }
