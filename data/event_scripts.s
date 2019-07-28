@@ -589,6 +589,9 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/Route12_FishingHouse/scripts.inc"
 	.include "data/maps/Route15_WestEntrance_1F/scripts.inc"
 	.include "data/maps/Route15_WestEntrance_2F/scripts.inc"
+	.include "data/maps/Route16_House/scripts.inc"
+	.include "data/maps/Route16_NorthEntrance_1F/scripts.inc"
+	.include "data/maps/Route16_NorthEntrance_2F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
