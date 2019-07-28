@@ -5634,6 +5634,30 @@
       "secondary_tileset": "gTileset_GateKanto",
       "border_filepath": "data/layouts/Entrance_2F/border.bin",
       "blockdata_filepath": "data/layouts/Entrance_2F/map.bin"
+    },
+	{
+      "id": "LAYOUT_ROUTE12_NORTH_ENTRANCE_1F",
+      "name": "Route12_NorthEntrance_1F_Layout",
+      "width": 11,
+      "height": 13,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/Route12_NorthEntrance_1F/border.bin",
+      "blockdata_filepath": "data/layouts/Route12_NorthEntrance_1F/map.bin"
+    },
+	{
+	  "id": "LAYOUT_HOUSE4_KANTO",
+      "name": "House4_Kanto_Layout",
+      "width": 11,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/House4_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/House4_Kanto/map.bin"
     }
   ]
 }
