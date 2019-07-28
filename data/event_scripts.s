@@ -594,6 +594,7 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/Route16_NorthEntrance_2F/scripts.inc"
 	.include "data/maps/Route18_EastEntrance_1F/scripts.inc"
 	.include "data/maps/Route18_EastEntrance_2F/scripts.inc"
+	.include "data/maps/Route22_NorthEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
