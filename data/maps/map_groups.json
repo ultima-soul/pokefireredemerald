@@ -55,7 +55,8 @@
 	"gMapGroup52",
 	"gMapGroup53",
 	"gMapGroup54",
-	"gMapGroup55"
+	"gMapGroup55",
+	"gMapGroup56"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -840,6 +841,10 @@
     "Route16_House",
     "Route16_NorthEntrance_1F",
     "Route16_NorthEntrance_2F"
+  ],
+  "gMapGroup56": [
+    "Route18_EastEntrance_1F",
+    "Route18_EastEntrance_2F"
   ],
   "connections_include_order": [
     "LittlerootTown",
