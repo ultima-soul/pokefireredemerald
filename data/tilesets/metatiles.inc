@@ -861,3 +861,11 @@ gMetatiles_CinnabarGym::
 	.align 1
 gMetatileAttributes_CinnabarGym::
 	.incbin "data/tilesets/secondary/cinnabar_gym/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_SeaCottage::
+	.incbin "data/tilesets/secondary/sea_cottage/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_SeaCottage::
+	.incbin "data/tilesets/secondary/sea_cottage/metatile_attributes.bin"

@@ -57,7 +57,8 @@
 	"gMapGroup54",
 	"gMapGroup55",
 	"gMapGroup56",
-	"gMapGroup57"
+	"gMapGroup57",
+	"gMapGroup58"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -849,6 +850,9 @@
   ],
   "gMapGroup57": [
     "Route22_NorthEntrance"
+  ],
+  "gMapGroup58": [
+    "Route25_SeaCottage"
   ],
   "connections_include_order": [
     "LittlerootTown",

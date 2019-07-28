@@ -1248,3 +1248,14 @@ gTileset_CinnabarGym::
 	.4byte gMetatiles_CinnabarGym
 	.4byte gMetatileAttributes_CinnabarGym
 	.4byte NULL
+
+	.align 2
+gTileset_SeaCottage::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_SeaCottage
+	.4byte gTilesetPalettes_SeaCottage
+	.4byte gMetatiles_SeaCottage
+	.4byte gMetatileAttributes_SeaCottage
+	.4byte NULL

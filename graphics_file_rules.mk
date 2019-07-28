@@ -362,6 +362,9 @@ $(TILESETGFXDIR)/secondary/saffron_gym/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/cinnabar_gym/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 146
 
+$(TILESETGFXDIR)/secondary/sea_cottage/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 68
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

@@ -2580,3 +2580,26 @@ gTilesetPalettes_CinnabarGym::
 	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/cinnabar_gym/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_SeaCottage::
+	.incbin "data/tilesets/secondary/sea_cottage/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_SeaCottage::
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/sea_cottage/palettes/15.gbapal"

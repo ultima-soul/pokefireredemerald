@@ -5682,6 +5682,18 @@
       "secondary_tileset": "gTileset_GateKanto",
       "border_filepath": "data/layouts/Route22_NorthEntrance/border.bin",
       "blockdata_filepath": "data/layouts/Route22_NorthEntrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_ROUTE25_SEA_COTTAGE",
+      "name": "Route25_SeaCottage_Layout",
+      "width": 15,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SeaCottage",
+      "border_filepath": "data/layouts/Route25_SeaCottage/border.bin",
+      "blockdata_filepath": "data/layouts/Route25_SeaCottage/map.bin"
     }
   ]
 }
