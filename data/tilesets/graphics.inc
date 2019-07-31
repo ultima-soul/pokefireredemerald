@@ -2626,3 +2626,26 @@ gTilesetPalettes_CaveKanto::
 	.incbin "data/tilesets/secondary/cave_kanto/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/cave_kanto/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/cave_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_UndergroundPath::
+	.incbin "data/tilesets/secondary/underground_path/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_UndergroundPath::
+	.incbin "data/tilesets/secondary/underground_path/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/underground_path/palettes/15.gbapal"

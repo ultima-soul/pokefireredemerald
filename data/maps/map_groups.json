@@ -858,7 +858,10 @@
     "ViridianForest",
 	"MtMoon_1F",
     "MtMoon_B1F",
-    "MtMoon_B2F"
+    "MtMoon_B2F",
+	"UndergroundPath_NorthEntrance",
+    "UndergroundPath_NorthSouthTunnel",
+    "UndergroundPath_SouthEntrance"
   ],
   "connections_include_order": [
     "LittlerootTown",

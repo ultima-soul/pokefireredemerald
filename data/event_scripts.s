@@ -600,6 +600,9 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/MtMoon_1F/scripts.inc"
 	.include "data/maps/MtMoon_B1F/scripts.inc"
 	.include "data/maps/MtMoon_B2F/scripts.inc"
+	.include "data/maps/UndergroundPath_NorthEntrance/scripts.inc"
+	.include "data/maps/UndergroundPath_NorthSouthTunnel/scripts.inc"
+	.include "data/maps/UndergroundPath_SouthEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

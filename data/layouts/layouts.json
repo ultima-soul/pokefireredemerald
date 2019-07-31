@@ -5730,6 +5730,30 @@
       "secondary_tileset": "gTileset_CaveKanto",
       "border_filepath": "data/layouts/MtMoon_B2F/border.bin",
       "blockdata_filepath": "data/layouts/MtMoon_B2F/map.bin"
+    },
+	{
+      "id": "LAYOUT_UNDERGROUND_PATH_ENTRANCE",
+      "name": "UndergroundPath_Entrance_Layout",
+      "width": 13,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_GateKanto",
+      "border_filepath": "data/layouts/UndergroundPath_Entrance/border.bin",
+      "blockdata_filepath": "data/layouts/UndergroundPath_Entrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_UNDERGROUND_PATH_NORTH_SOUTH_TUNNEL",
+      "name": "UndergroundPath_NorthSouthTunnel_Layout",
+      "width": 8,
+      "height": 63,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_UndergroundPath",
+      "border_filepath": "data/layouts/UndergroundPath_NorthSouthTunnel/border.bin",
+      "blockdata_filepath": "data/layouts/UndergroundPath_NorthSouthTunnel/map.bin"
     }
   ]
 }

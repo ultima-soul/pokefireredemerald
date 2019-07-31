@@ -368,6 +368,9 @@ $(TILESETGFXDIR)/secondary/viridian_forest/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/cave_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 256
 
+$(TILESETGFXDIR)/secondary/underground_path/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 50
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

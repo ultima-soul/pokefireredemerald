@@ -877,3 +877,11 @@ gMetatiles_CaveKanto::
 	.align 1
 gMetatileAttributes_CaveKanto::
 	.incbin "data/tilesets/secondary/cave_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_UndergroundPath::
+	.incbin "data/tilesets/secondary/underground_path/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_UndergroundPath::
+	.incbin "data/tilesets/secondary/underground_path/metatile_attributes.bin"
