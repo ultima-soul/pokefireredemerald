@@ -885,3 +885,11 @@ gMetatiles_UndergroundPath::
 	.align 1
 gMetatileAttributes_UndergroundPath::
 	.incbin "data/tilesets/secondary/underground_path/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_InsideShipKanto::
+	.incbin "data/tilesets/secondary/inside_ship_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_InsideShipKanto::
+	.incbin "data/tilesets/secondary/inside_ship_kanto/metatile_attributes.bin"

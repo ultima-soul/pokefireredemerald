@@ -2649,3 +2649,26 @@ gTilesetPalettes_UndergroundPath::
 	.incbin "data/tilesets/secondary/underground_path/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/underground_path/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/underground_path/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_InsideShipKanto::
+	.incbin "data/tilesets/secondary/inside_ship_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_InsideShipKanto::
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/15.gbapal"

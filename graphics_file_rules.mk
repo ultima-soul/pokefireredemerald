@@ -371,6 +371,9 @@ $(TILESETGFXDIR)/secondary/cave_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/underground_path/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 50
 
+$(TILESETGFXDIR)/secondary/inside_ship_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 245
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

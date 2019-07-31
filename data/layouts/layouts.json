@@ -5754,6 +5754,126 @@
       "secondary_tileset": "gTileset_UndergroundPath",
       "border_filepath": "data/layouts/UndergroundPath_NorthSouthTunnel/border.bin",
       "blockdata_filepath": "data/layouts/UndergroundPath_NorthSouthTunnel/map.bin"
+    },
+	{
+      "id": "LAYOUT_SSANNE_EXTERIOR",
+      "name": "SSAnne_Exterior_Layout",
+      "width": 70,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_Vermilion",
+      "border_filepath": "data/layouts/SSAnne_Exterior/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_Exterior/map.bin"
+    },
+	{
+      "id": "LAYOUT_SSANNE_1F_CORRIDOR",
+      "name": "SSAnne_1F_Corridor_Layout",
+      "width": 31,
+      "height": 21,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_1F_Corridor/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_1F_Corridor/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSANNE_2F_CORRIDOR",
+      "name": "SSAnne_2F_Corridor_Layout",
+      "width": 34,
+      "height": 16,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_2F_Corridor/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_2F_Corridor/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSANNE_3F_CORRIDOR",
+      "name": "SSAnne_3F_Corridor_Layout",
+      "width": 22,
+      "height": 7,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_3F_Corridor/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_3F_Corridor/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSANNE_B1F_CORRIDOR",
+      "name": "SSAnne_B1F_Corridor_Layout",
+      "width": 23,
+      "height": 7,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_B1F_Corridor/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_B1F_Corridor/map.bin"
+    },
+	{
+      "id": "LAYOUT_SSANNE_DECK",
+      "name": "SSAnne_Deck_Layout",
+      "width": 24,
+      "height": 19,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_Deck/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_Deck/map.bin"
+    },
+	{
+      "id": "LAYOUT_SSANNE_KITCHEN",
+      "name": "SSAnne_Kitchen_Layout",
+      "width": 16,
+      "height": 14,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_Kitchen/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_Kitchen/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSANNE_CAPTAINS_OFFICE",
+      "name": "SSAnne_CaptainsOffice_Layout",
+      "width": 9,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_CaptainsOffice/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_CaptainsOffice/map.bin"
+    },
+	{
+      "id": "LAYOUT_SSANNE_ROOM1",
+      "name": "SSAnne_Room1_Layout",
+      "width": 6,
+      "height": 8,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_Room1/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_Room1/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSANNE_ROOM2",
+      "name": "SSAnne_Room2_Layout",
+      "width": 6,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_InsideShipKanto",
+      "border_filepath": "data/layouts/SSAnne_Room2/border.bin",
+      "blockdata_filepath": "data/layouts/SSAnne_Room2/map.bin"
     }
   ]
 }

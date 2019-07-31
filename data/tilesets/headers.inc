@@ -1281,3 +1281,14 @@ gTileset_UndergroundPath::
 	.4byte gMetatiles_UndergroundPath
 	.4byte gMetatileAttributes_UndergroundPath
 	.4byte NULL
+
+	.align 2
+gTileset_InsideShipKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_InsideShipKanto
+	.4byte gTilesetPalettes_InsideShipKanto
+	.4byte gMetatiles_InsideShipKanto
+	.4byte gMetatileAttributes_InsideShipKanto
+	.4byte NULL
