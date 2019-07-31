@@ -146,18 +146,6 @@
       "blockdata_filepath": "data/layouts/IndigoPlateau_Exterior/map.bin"
     },
     {
-      "id": "LAYOUT_VIRIDIAN_FOREST",
-      "name": "ViridianForest_Layout",
-      "width": 54,
-      "height": 69,
-      "border_width": 3,
-      "border_height": 2,
-      "primary_tileset": "gTileset_GeneralKanto",
-      "secondary_tileset": "gTileset_ViridianForest",
-      "border_filepath": "data/layouts/ViridianForest/border.bin",
-      "blockdata_filepath": "data/layouts/ViridianForest/map.bin"
-    },
-    {
       "id": "LAYOUT_PETALBURG_CITY",
       "name": "PetalburgCity_Layout",
       "width": 30,
@@ -5694,6 +5682,18 @@
       "secondary_tileset": "gTileset_SeaCottage",
       "border_filepath": "data/layouts/Route25_SeaCottage/border.bin",
       "blockdata_filepath": "data/layouts/Route25_SeaCottage/map.bin"
+    },
+	{
+      "id": "LAYOUT_VIRIDIAN_FOREST",
+      "name": "ViridianForest_Layout",
+      "width": 54,
+      "height": 69,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_ViridianForest",
+      "border_filepath": "data/layouts/ViridianForest/border.bin",
+      "blockdata_filepath": "data/layouts/ViridianForest/map.bin"
     }
   ]
 }

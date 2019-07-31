@@ -111,14 +111,6 @@ gMetatileAttributes_IndigoPlateauExterior::
 	.incbin "data/tilesets/secondary/indigo_plateau_exterior/metatile_attributes.bin"
 
 	.align 1
-gMetatiles_ViridianForest::
-	.incbin "data/tilesets/secondary/viridian_forest/metatiles.bin"
-
-	.align 1
-gMetatileAttributes_ViridianForest::
-	.incbin "data/tilesets/secondary/viridian_forest/metatile_attributes.bin"
-
-	.align 1
 gMetatiles_Petalburg:: @ 83984F0
 	.incbin "data/tilesets/secondary/petalburg/metatiles.bin"
 
@@ -869,3 +861,11 @@ gMetatiles_SeaCottage::
 	.align 1
 gMetatileAttributes_SeaCottage::
 	.incbin "data/tilesets/secondary/sea_cottage/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_ViridianForest::
+	.incbin "data/tilesets/secondary/viridian_forest/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_ViridianForest::
+	.incbin "data/tilesets/secondary/viridian_forest/metatile_attributes.bin"

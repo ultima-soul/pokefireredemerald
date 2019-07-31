@@ -58,7 +58,8 @@
 	"gMapGroup55",
 	"gMapGroup56",
 	"gMapGroup57",
-	"gMapGroup58"
+	"gMapGroup58",
+	"gMapGroup59"
   ],
   "gMapGroup0": [
 	"PalletTown",
@@ -73,7 +74,6 @@
 	"SaffronCity_Classic",
 	"CinnabarIsland",
 	"IndigoPlateau_Exterior",
-	"ViridianForest",
     "PetalburgCity",
     "SlateportCity",
     "MauvilleCity",
@@ -853,6 +853,9 @@
   ],
   "gMapGroup58": [
     "Route25_SeaCottage"
+  ],
+  "gMapGroup59": [
+    "ViridianForest"
   ],
   "connections_include_order": [
     "LittlerootTown",

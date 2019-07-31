@@ -98,9 +98,6 @@ $(TILESETGFXDIR)/secondary/cinnabar/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/indigo_plateau_exterior/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 247
 
-$(TILESETGFXDIR)/secondary/viridian_forest/tiles.4bpp: %.4bpp: %.png
-	$(GFX) $< $@ -num_tiles 101
-
 $(TILESETGFXDIR)/secondary/petalburg/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 159
 
@@ -364,6 +361,9 @@ $(TILESETGFXDIR)/secondary/cinnabar_gym/tiles.4bpp: %.4bpp: %.png
 
 $(TILESETGFXDIR)/secondary/sea_cottage/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 68
+
+$(TILESETGFXDIR)/secondary/viridian_forest/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 101
 
 ### Fonts ###
 
