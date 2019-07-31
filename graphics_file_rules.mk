@@ -365,6 +365,9 @@ $(TILESETGFXDIR)/secondary/sea_cottage/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/viridian_forest/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 101
 
+$(TILESETGFXDIR)/secondary/cave_kanto/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 256
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

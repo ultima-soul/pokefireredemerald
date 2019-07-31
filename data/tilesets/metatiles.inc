@@ -869,3 +869,11 @@ gMetatiles_ViridianForest::
 	.align 1
 gMetatileAttributes_ViridianForest::
 	.incbin "data/tilesets/secondary/viridian_forest/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CaveKanto::
+	.incbin "data/tilesets/secondary/cave_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CaveKanto::
+	.incbin "data/tilesets/secondary/cave_kanto/metatile_attributes.bin"

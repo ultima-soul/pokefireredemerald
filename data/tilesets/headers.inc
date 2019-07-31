@@ -1259,3 +1259,14 @@ gTileset_ViridianForest::
 	.4byte gMetatiles_ViridianForest
 	.4byte gMetatileAttributes_ViridianForest
 	.4byte NULL
+
+	.align 2
+gTileset_CaveKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CaveKanto
+	.4byte gTilesetPalettes_CaveKanto
+	.4byte gMetatiles_CaveKanto
+	.4byte gMetatileAttributes_CaveKanto
+	.4byte NULL
