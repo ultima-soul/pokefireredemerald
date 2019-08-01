@@ -916,7 +916,19 @@
     "SafariZone_Building2_Kanto",
     "SafariZone_Building3_Kanto",
     "SafariZone_Building4_Kanto",
-    "SafariZone_SecretHouse_Kanto"
+    "SafariZone_SecretHouse_Kanto",
+	"SilphCo_1F",
+    "SilphCo_2F",
+    "SilphCo_3F",
+    "SilphCo_4F",
+    "SilphCo_5F",
+    "SilphCo_6F",
+    "SilphCo_7F",
+    "SilphCo_8F",
+    "SilphCo_9F",
+    "SilphCo_10F",
+    "SilphCo_11F",
+    "SilphCo_Elevator"
   ],
   "connections_include_order": [
     "LittlerootTown",

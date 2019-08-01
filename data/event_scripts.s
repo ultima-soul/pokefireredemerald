@@ -658,6 +658,18 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SafariZone_Building3_Kanto/scripts.inc"
 	.include "data/maps/SafariZone_Building4_Kanto/scripts.inc"
 	.include "data/maps/SafariZone_SecretHouse_Kanto/scripts.inc"
+	.include "data/maps/SilphCo_1F/scripts.inc"
+	.include "data/maps/SilphCo_2F/scripts.inc"
+	.include "data/maps/SilphCo_3F/scripts.inc"
+	.include "data/maps/SilphCo_4F/scripts.inc"
+	.include "data/maps/SilphCo_5F/scripts.inc"
+	.include "data/maps/SilphCo_6F/scripts.inc"
+	.include "data/maps/SilphCo_7F/scripts.inc"
+	.include "data/maps/SilphCo_8F/scripts.inc"
+	.include "data/maps/SilphCo_9F/scripts.inc"
+	.include "data/maps/SilphCo_10F/scripts.inc"
+	.include "data/maps/SilphCo_11F/scripts.inc"
+	.include "data/maps/SilphCo_Elevator/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
