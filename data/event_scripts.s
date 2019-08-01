@@ -689,6 +689,9 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/PokemonLeague_LancesRoom/scripts.inc"
 	.include "data/maps/PokemonLeague_ChampionsRoom/scripts.inc"
 	.include "data/maps/PokemonLeague_HallOfFame/scripts.inc"
+	.include "data/maps/CeruleanCave_1F/scripts.inc"
+	.include "data/maps/CeruleanCave_2F/scripts.inc"
+	.include "data/maps/CeruleanCave_B1F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

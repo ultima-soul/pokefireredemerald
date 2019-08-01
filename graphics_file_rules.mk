@@ -398,6 +398,9 @@ $(TILESETGFXDIR)/secondary/elite_four_kanto/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/hall_of_fame_kanto/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 208
 
+$(TILESETGFXDIR)/secondary/cerulean_cave/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 246
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

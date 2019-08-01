@@ -957,3 +957,11 @@ gMetatiles_HallOfFameKanto::
 	.align 1
 gMetatileAttributes_HallOfFameKanto::
 	.incbin "data/tilesets/secondary/hall_of_fame_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_CeruleanCave::
+	.incbin "data/tilesets/secondary/cerulean_cave/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_CeruleanCave::
+	.incbin "data/tilesets/secondary/cerulean_cave/metatile_attributes.bin"

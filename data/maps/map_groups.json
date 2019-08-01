@@ -947,7 +947,10 @@
     "PokemonLeague_AgathasRoom",
     "PokemonLeague_LancesRoom",
     "PokemonLeague_ChampionsRoom",
-    "PokemonLeague_HallOfFame"
+    "PokemonLeague_HallOfFame",
+	"CeruleanCave_1F",
+    "CeruleanCave_2F",
+    "CeruleanCave_B1F"
   ],
   "connections_include_order": [
     "LittlerootTown",

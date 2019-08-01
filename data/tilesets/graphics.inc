@@ -2856,3 +2856,26 @@ gTilesetPalettes_HallOfFameKanto::
 	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_CeruleanCave::
+	.incbin "data/tilesets/secondary/cerulean_cave/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_CeruleanCave::
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/cerulean_cave/palettes/15.gbapal"

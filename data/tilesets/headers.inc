@@ -1380,3 +1380,14 @@ gTileset_HallOfFameKanto::
 	.4byte gMetatiles_HallOfFameKanto
 	.4byte gMetatileAttributes_HallOfFameKanto
 	.4byte NULL
+
+	.align 2
+gTileset_CeruleanCave::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_CeruleanCave
+	.4byte gTilesetPalettes_CeruleanCave
+	.4byte gMetatiles_CeruleanCave
+	.4byte gMetatileAttributes_CeruleanCave
+	.4byte NULL
