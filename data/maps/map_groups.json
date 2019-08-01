@@ -938,7 +938,10 @@
 	"PokemonMansion_1F",
     "PokemonMansion_2F",
     "PokemonMansion_3F",
-    "PokemonMansion_B1F"
+    "PokemonMansion_B1F",
+	"VictoryRoad_1F_Kanto",
+    "VictoryRoad_2F_Kanto",
+    "VictoryRoad_3F_Kanto"
   ],
   "connections_include_order": [
     "LittlerootTown",

@@ -6426,6 +6426,42 @@
       "secondary_tileset": "gTileset_PokemonMansion",
       "border_filepath": "data/layouts/PokemonMansion_B1F/border.bin",
       "blockdata_filepath": "data/layouts/PokemonMansion_B1F/map.bin"
+    },
+	{
+      "id": "LAYOUT_VICTORY_ROAD_1F_KANTO",
+      "name": "VictoryRoad_1F_Kanto_Layout",
+      "width": 48,
+      "height": 22,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_CaveKanto",
+      "border_filepath": "data/layouts/VictoryRoad_1F_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoad_1F_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VICTORY_ROAD_2F_KANTO",
+      "name": "VictoryRoad_2F_Kanto_Layout",
+      "width": 51,
+      "height": 22,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_CaveKanto",
+      "border_filepath": "data/layouts/VictoryRoad_2F_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoad_2F_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_VICTORY_ROAD_3F_KANTO",
+      "name": "VictoryRoad_3F_Kanto_Layout",
+      "width": 45,
+      "height": 22,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_CaveKanto",
+      "border_filepath": "data/layouts/VictoryRoad_3F_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/VictoryRoad_3F_Kanto/map.bin"
     }
   ]
 }

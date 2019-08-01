@@ -121,14 +121,14 @@
       "x": 5,
       "y": 28,
       "elevation": 3,
-      "dest_map": "MAP_VICTORY_ROAD_1F",
+      "dest_map": "MAP_VICTORY_ROAD_1F_KANTO",
       "dest_warp_id": 1
     },
     {
       "x": 18,
       "y": 28,
       "elevation": 3,
-      "dest_map": "MAP_VICTORY_ROAD_2F",
+      "dest_map": "MAP_VICTORY_ROAD_2F_KANTO",
       "dest_warp_id": 6
     },
     {

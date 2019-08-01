@@ -680,6 +680,9 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/PokemonMansion_2F/scripts.inc"
 	.include "data/maps/PokemonMansion_3F/scripts.inc"
 	.include "data/maps/PokemonMansion_B1F/scripts.inc"
+	.include "data/maps/VictoryRoad_1F_Kanto/scripts.inc"
+	.include "data/maps/VictoryRoad_2F_Kanto/scripts.inc"
+	.include "data/maps/VictoryRoad_3F_Kanto/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
