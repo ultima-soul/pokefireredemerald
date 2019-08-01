@@ -917,3 +917,11 @@ gMetatiles_PokemonTower::
 	.align 1
 gMetatileAttributes_PokemonTower::
 	.incbin "data/tilesets/secondary/pokemon_tower/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PowerPlant::
+	.incbin "data/tilesets/secondary/power_plant/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PowerPlant::
+	.incbin "data/tilesets/secondary/power_plant/metatile_attributes.bin"

@@ -670,6 +670,7 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SilphCo_10F/scripts.inc"
 	.include "data/maps/SilphCo_11F/scripts.inc"
 	.include "data/maps/SilphCo_Elevator/scripts.inc"
+	.include "data/maps/PowerPlant/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

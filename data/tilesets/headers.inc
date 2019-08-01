@@ -1325,3 +1325,14 @@ gTileset_PokemonTower::
 	.4byte gMetatiles_PokemonTower
 	.4byte gMetatileAttributes_PokemonTower
 	.4byte NULL
+
+	.align 2
+gTileset_PowerPlant::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PowerPlant
+	.4byte gTilesetPalettes_PowerPlant
+	.4byte gMetatiles_PowerPlant
+	.4byte gMetatileAttributes_PowerPlant
+	.4byte NULL

@@ -928,7 +928,8 @@
     "SilphCo_9F",
     "SilphCo_10F",
     "SilphCo_11F",
-    "SilphCo_Elevator"
+    "SilphCo_Elevator",
+	"PowerPlant"
   ],
   "connections_include_order": [
     "LittlerootTown",

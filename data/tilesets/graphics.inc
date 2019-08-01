@@ -2741,3 +2741,26 @@ gTilesetPalettes_PokemonTower::
 	.incbin "data/tilesets/secondary/pokemon_tower/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_tower/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_tower/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PowerPlant::
+	.incbin "data/tilesets/secondary/power_plant/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PowerPlant::
+	.incbin "data/tilesets/secondary/power_plant/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/power_plant/palettes/15.gbapal"
