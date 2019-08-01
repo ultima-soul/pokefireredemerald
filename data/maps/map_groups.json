@@ -929,7 +929,12 @@
     "SilphCo_10F",
     "SilphCo_11F",
     "SilphCo_Elevator",
-	"PowerPlant"
+	"PowerPlant",
+	"SeafoamIslands_1F",
+    "SeafoamIslands_B1F",
+    "SeafoamIslands_B2F",
+    "SeafoamIslands_B3F",
+    "SeafoamIslands_B4F"
   ],
   "connections_include_order": [
     "LittlerootTown",

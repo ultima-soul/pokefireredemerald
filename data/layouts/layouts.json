@@ -6318,6 +6318,66 @@
       "secondary_tileset": "gTileset_PowerPlant",
       "border_filepath": "data/layouts/PowerPlant/border.bin",
       "blockdata_filepath": "data/layouts/PowerPlant/map.bin"
+    },
+	{
+      "id": "LAYOUT_SEAFOAM_ISLANDS_1F",
+      "name": "SeafoamIslands_1F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_SeafoamIslands",
+      "border_filepath": "data/layouts/SeafoamIslands_1F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B1F",
+      "name": "SeafoamIslands_B1F_Layout",
+      "width": 38,
+      "height": 23,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_SeafoamIslands",
+      "border_filepath": "data/layouts/SeafoamIslands_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B2F",
+      "name": "SeafoamIslands_B2F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_SeafoamIslands",
+      "border_filepath": "data/layouts/SeafoamIslands_B2F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands_B2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B3F",
+      "name": "SeafoamIslands_B3F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_SeafoamIslands",
+      "border_filepath": "data/layouts/SeafoamIslands_B3F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands_B3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B4F",
+      "name": "SeafoamIslands_B4F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_SeafoamIslands",
+      "border_filepath": "data/layouts/SeafoamIslands_B4F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands_B4F/map.bin"
     }
   ]
 }

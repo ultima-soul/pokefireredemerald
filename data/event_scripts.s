@@ -671,6 +671,11 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SilphCo_11F/scripts.inc"
 	.include "data/maps/SilphCo_Elevator/scripts.inc"
 	.include "data/maps/PowerPlant/scripts.inc"
+	.include "data/maps/SeafoamIslands_1F/scripts.inc"
+	.include "data/maps/SeafoamIslands_B1F/scripts.inc"
+	.include "data/maps/SeafoamIslands_B2F/scripts.inc"
+	.include "data/maps/SeafoamIslands_B3F/scripts.inc"
+	.include "data/maps/SeafoamIslands_B4F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

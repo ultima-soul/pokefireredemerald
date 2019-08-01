@@ -2764,3 +2764,26 @@ gTilesetPalettes_PowerPlant::
 	.incbin "data/tilesets/secondary/power_plant/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/power_plant/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/power_plant/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_SeafoamIslands::
+	.incbin "data/tilesets/secondary/seafoam_islands/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_SeafoamIslands::
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/seafoam_islands/palettes/15.gbapal"

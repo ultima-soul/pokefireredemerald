@@ -925,3 +925,11 @@ gMetatiles_PowerPlant::
 	.align 1
 gMetatileAttributes_PowerPlant::
 	.incbin "data/tilesets/secondary/power_plant/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_SeafoamIslands::
+	.incbin "data/tilesets/secondary/seafoam_islands/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_SeafoamIslands::
+	.incbin "data/tilesets/secondary/seafoam_islands/metatile_attributes.bin"

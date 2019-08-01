@@ -386,6 +386,9 @@ $(TILESETGFXDIR)/secondary/pokemon_tower/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/power_plant/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 80
 
+$(TILESETGFXDIR)/secondary/seafoam_islands/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 318
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png
