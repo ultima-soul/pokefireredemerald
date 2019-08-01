@@ -895,7 +895,12 @@
     "RockTunnel_B1F",
 	"UndergroundPath_WestEntrance",
     "UndergroundPath_EastWestTunnel",
-    "UndergroundPath_EastEntrance"
+    "UndergroundPath_EastEntrance",
+	"RocketHideout_B1F",
+    "RocketHideout_B2F",
+    "RocketHideout_B3F",
+    "RocketHideout_B4F",
+    "RocketHideout_Elevator"
   ],
   "connections_include_order": [
     "LittlerootTown",

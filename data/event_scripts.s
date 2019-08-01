@@ -637,6 +637,11 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/UndergroundPath_WestEntrance/scripts.inc"
 	.include "data/maps/UndergroundPath_EastWestTunnel/scripts.inc"
 	.include "data/maps/UndergroundPath_EastEntrance/scripts.inc"
+	.include "data/maps/RocketHideout_B1F/scripts.inc"
+	.include "data/maps/RocketHideout_B2F/scripts.inc"
+	.include "data/maps/RocketHideout_B3F/scripts.inc"
+	.include "data/maps/RocketHideout_B4F/scripts.inc"
+	.include "data/maps/RocketHideout_Elevator/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
