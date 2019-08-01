@@ -900,7 +900,14 @@
     "RocketHideout_B2F",
     "RocketHideout_B3F",
     "RocketHideout_B4F",
-    "RocketHideout_Elevator"
+    "RocketHideout_Elevator",
+	"PokemonTower_1F",
+    "PokemonTower_2F",
+    "PokemonTower_3F",
+    "PokemonTower_4F",
+    "PokemonTower_5F",
+    "PokemonTower_6F",
+    "PokemonTower_7F"
   ],
   "connections_include_order": [
     "LittlerootTown",

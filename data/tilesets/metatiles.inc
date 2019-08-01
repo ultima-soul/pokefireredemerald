@@ -909,3 +909,11 @@ gMetatiles_RockTunnel::
 	.align 1
 gMetatileAttributes_RockTunnel::
 	.incbin "data/tilesets/secondary/rock_tunnel/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PokemonTower::
+	.incbin "data/tilesets/secondary/pokemon_tower/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PokemonTower::
+	.incbin "data/tilesets/secondary/pokemon_tower/metatile_attributes.bin"

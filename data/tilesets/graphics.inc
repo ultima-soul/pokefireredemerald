@@ -2718,3 +2718,26 @@ gTilesetPalettes_RockTunnel::
 	.incbin "data/tilesets/secondary/rock_tunnel/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/rock_tunnel/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/rock_tunnel/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PokemonTower::
+	.incbin "data/tilesets/secondary/pokemon_tower/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PokemonTower::
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_tower/palettes/15.gbapal"

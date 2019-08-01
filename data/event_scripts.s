@@ -642,6 +642,13 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/RocketHideout_B3F/scripts.inc"
 	.include "data/maps/RocketHideout_B4F/scripts.inc"
 	.include "data/maps/RocketHideout_Elevator/scripts.inc"
+	.include "data/maps/PokemonTower_1F/scripts.inc"
+	.include "data/maps/PokemonTower_2F/scripts.inc"
+	.include "data/maps/PokemonTower_3F/scripts.inc"
+	.include "data/maps/PokemonTower_4F/scripts.inc"
+	.include "data/maps/PokemonTower_5F/scripts.inc"
+	.include "data/maps/PokemonTower_6F/scripts.inc"
+	.include "data/maps/PokemonTower_7F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

@@ -380,6 +380,9 @@ $(TILESETGFXDIR)/secondary/digletts_cave/tiles.4bpp: %.4bpp: %.png
 $(TILESETGFXDIR)/secondary/rock_tunnel/tiles.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 256
 
+$(TILESETGFXDIR)/secondary/pokemon_tower/tiles.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -num_tiles 128
+
 ### Fonts ###
 
 $(FONTGFXDIR)/font0.latfont: $(FONTGFXDIR)/font0_latin.png

@@ -6006,6 +6006,90 @@
       "secondary_tileset": "gTileset_RocketHideout",
       "border_filepath": "data/layouts/RocketHideout_Elevator/border.bin",
       "blockdata_filepath": "data/layouts/RocketHideout_Elevator/map.bin"
+    },
+	{
+      "id": "LAYOUT_POKEMON_TOWER_1F",
+      "name": "PokemonTower_1F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_1F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_2F",
+      "name": "PokemonTower_2F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_2F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_3F",
+      "name": "PokemonTower_3F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_3F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_4F",
+      "name": "PokemonTower_4F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_4F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_4F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_5F",
+      "name": "PokemonTower_5F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_5F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_5F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_6F",
+      "name": "PokemonTower_6F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_6F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_6F/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_TOWER_7F",
+      "name": "PokemonTower_7F_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_PokemonTower",
+      "border_filepath": "data/layouts/PokemonTower_7F/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonTower_7F/map.bin"
     }
   ]
 }
