@@ -1358,3 +1358,25 @@ gTileset_PokemonMansion::
 	.4byte gMetatiles_PokemonMansion
 	.4byte gMetatileAttributes_PokemonMansion
 	.4byte NULL
+
+	.align 2
+gTileset_EliteFourKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_EliteFourKanto
+	.4byte gTilesetPalettes_EliteFourKanto
+	.4byte gMetatiles_EliteFourKanto
+	.4byte gMetatileAttributes_EliteFourKanto
+	.4byte NULL
+
+	.align 2
+gTileset_HallOfFameKanto::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_HallOfFameKanto
+	.4byte gTilesetPalettes_HallOfFameKanto
+	.4byte gMetatiles_HallOfFameKanto
+	.4byte gMetatileAttributes_HallOfFameKanto
+	.4byte NULL

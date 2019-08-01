@@ -6462,6 +6462,78 @@
       "secondary_tileset": "gTileset_CaveKanto",
       "border_filepath": "data/layouts/VictoryRoad_3F_Kanto/border.bin",
       "blockdata_filepath": "data/layouts/VictoryRoad_3F_Kanto/map.bin"
+    },
+	{
+      "id": "LAYOUT_POKEMON_LEAGUE_LORELEIS_ROOM",
+      "name": "PokemonLeague_LoreleisRoom_Layout",
+      "width": 13,
+      "height": 13,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_EliteFourKanto",
+      "border_filepath": "data/layouts/PokemonLeague_LoreleisRoom/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_LoreleisRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_LEAGUE_BRUNOS_ROOM",
+      "name": "PokemonLeague_BrunosRoom_Layout",
+      "width": 13,
+      "height": 13,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_EliteFourKanto",
+      "border_filepath": "data/layouts/PokemonLeague_BrunosRoom/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_BrunosRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_LEAGUE_AGATHAS_ROOM",
+      "name": "PokemonLeague_AgathasRoom_Layout",
+      "width": 13,
+      "height": 13,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_EliteFourKanto",
+      "border_filepath": "data/layouts/PokemonLeague_AgathasRoom/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_AgathasRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_LEAGUE_LANCES_ROOM",
+      "name": "PokemonLeague_LancesRoom_Layout",
+      "width": 28,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_EliteFourKanto",
+      "border_filepath": "data/layouts/PokemonLeague_LancesRoom/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_LancesRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_LEAGUE_CHAMPIONS_ROOM",
+      "name": "PokemonLeague_ChampionsRoom_Layout",
+      "width": 13,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_EliteFourKanto",
+      "border_filepath": "data/layouts/PokemonLeague_ChampionsRoom/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_ChampionsRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_POKEMON_LEAGUE_HALL_OF_FAME",
+      "name": "PokemonLeague_HallOfFame_Layout",
+      "width": 11,
+      "height": 13,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_HallOfFameKanto",
+      "border_filepath": "data/layouts/PokemonLeague_HallOfFame/border.bin",
+      "blockdata_filepath": "data/layouts/PokemonLeague_HallOfFame/map.bin"
     }
   ]
 }

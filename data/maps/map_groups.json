@@ -941,7 +941,13 @@
     "PokemonMansion_B1F",
 	"VictoryRoad_1F_Kanto",
     "VictoryRoad_2F_Kanto",
-    "VictoryRoad_3F_Kanto"
+    "VictoryRoad_3F_Kanto",
+	"PokemonLeague_LoreleisRoom",
+    "PokemonLeague_BrunosRoom",
+    "PokemonLeague_AgathasRoom",
+    "PokemonLeague_LancesRoom",
+    "PokemonLeague_ChampionsRoom",
+    "PokemonLeague_HallOfFame"
   ],
   "connections_include_order": [
     "LittlerootTown",

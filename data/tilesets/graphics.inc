@@ -2810,3 +2810,49 @@ gTilesetPalettes_PokemonMansion::
 	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_EliteFourKanto::
+	.incbin "data/tilesets/secondary/elite_four_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_EliteFourKanto::
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/elite_four_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_HallOfFameKanto::
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_HallOfFameKanto::
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/palettes/15.gbapal"

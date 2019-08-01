@@ -683,6 +683,12 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/VictoryRoad_1F_Kanto/scripts.inc"
 	.include "data/maps/VictoryRoad_2F_Kanto/scripts.inc"
 	.include "data/maps/VictoryRoad_3F_Kanto/scripts.inc"
+	.include "data/maps/PokemonLeague_LoreleisRoom/scripts.inc"
+	.include "data/maps/PokemonLeague_BrunosRoom/scripts.inc"
+	.include "data/maps/PokemonLeague_AgathasRoom/scripts.inc"
+	.include "data/maps/PokemonLeague_LancesRoom/scripts.inc"
+	.include "data/maps/PokemonLeague_ChampionsRoom/scripts.inc"
+	.include "data/maps/PokemonLeague_HallOfFame/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

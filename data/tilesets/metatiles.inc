@@ -941,3 +941,19 @@ gMetatiles_PokemonMansion::
 	.align 1
 gMetatileAttributes_PokemonMansion::
 	.incbin "data/tilesets/secondary/pokemon_mansion/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_EliteFourKanto::
+	.incbin "data/tilesets/secondary/elite_four_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_EliteFourKanto::
+	.incbin "data/tilesets/secondary/elite_four_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_HallOfFameKanto::
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_HallOfFameKanto::
+	.incbin "data/tilesets/secondary/hall_of_fame_kanto/metatile_attributes.bin"
