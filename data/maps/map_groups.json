@@ -907,7 +907,16 @@
     "PokemonTower_4F",
     "PokemonTower_5F",
     "PokemonTower_6F",
-    "PokemonTower_7F"
+    "PokemonTower_7F",
+	"SafariZone_Center_Kanto",
+    "SafariZone_East_Kanto",
+    "SafariZone_North_Kanto",
+    "SafariZone_West_Kanto",
+    "SafariZone_Building1_Kanto",
+    "SafariZone_Building2_Kanto",
+    "SafariZone_Building3_Kanto",
+    "SafariZone_Building4_Kanto",
+    "SafariZone_SecretHouse_Kanto"
   ],
   "connections_include_order": [
     "LittlerootTown",

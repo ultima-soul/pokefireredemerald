@@ -6090,6 +6090,78 @@
       "secondary_tileset": "gTileset_PokemonTower",
       "border_filepath": "data/layouts/PokemonTower_7F/border.bin",
       "blockdata_filepath": "data/layouts/PokemonTower_7F/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFARI_ZONE_CENTER_KANTO",
+      "name": "SafariZone_Center_Kanto_Layout",
+      "width": 51,
+      "height": 36,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/SafariZone_Center_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_Center_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_EAST_KANTO",
+      "name": "SafariZone_East_Kanto_Layout",
+      "width": 54,
+      "height": 35,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/SafariZone_East_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_East_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_NORTH_KANTO",
+      "name": "SafariZone_North_Kanto_Layout",
+      "width": 57,
+      "height": 40,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/SafariZone_North_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_North_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_WEST_KANTO",
+      "name": "SafariZone_West_Kanto_Layout",
+      "width": 48,
+      "height": 36,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/SafariZone_West_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_West_Kanto/map.bin"
+    },
+	{
+      "id": "LAYOUT_SAFARI_ZONE_BUILDING_KANTO",
+      "name": "SafariZone_Building_Kanto_Layout",
+      "width": 13,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SafariZoneBuildingKanto",
+      "border_filepath": "data/layouts/SafariZone_Building_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_Building_Kanto/map.bin"
+    },
+    {
+      "id": "LAYOUT_SAFARI_ZONE_SECRET_HOUSE_KANTO",
+      "name": "SafariZone_SecretHouse_Kanto_Layout",
+      "width": 13,
+      "height": 11,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_SafariZoneBuildingKanto",
+      "border_filepath": "data/layouts/SafariZone_SecretHouse_Kanto/border.bin",
+      "blockdata_filepath": "data/layouts/SafariZone_SecretHouse_Kanto/map.bin"
     }
   ]
 }

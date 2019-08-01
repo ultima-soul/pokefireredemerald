@@ -649,6 +649,15 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/PokemonTower_5F/scripts.inc"
 	.include "data/maps/PokemonTower_6F/scripts.inc"
 	.include "data/maps/PokemonTower_7F/scripts.inc"
+	.include "data/maps/SafariZone_Center_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_East_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_North_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_West_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_Building1_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_Building2_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_Building3_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_Building4_Kanto/scripts.inc"
+	.include "data/maps/SafariZone_SecretHouse_Kanto/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall
