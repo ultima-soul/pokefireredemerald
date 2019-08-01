@@ -1347,3 +1347,14 @@ gTileset_SeafoamIslands::
 	.4byte gMetatiles_SeafoamIslands
 	.4byte gMetatileAttributes_SeafoamIslands
 	.4byte NULL
+
+	.align 2
+gTileset_PokemonMansion::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_PokemonMansion
+	.4byte gTilesetPalettes_PokemonMansion
+	.4byte gMetatiles_PokemonMansion
+	.4byte gMetatileAttributes_PokemonMansion
+	.4byte NULL

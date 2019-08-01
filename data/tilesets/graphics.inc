@@ -2787,3 +2787,26 @@ gTilesetPalettes_SeafoamIslands::
 	.incbin "data/tilesets/secondary/seafoam_islands/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/seafoam_islands/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/seafoam_islands/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_PokemonMansion::
+	.incbin "data/tilesets/secondary/pokemon_mansion/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PokemonMansion::
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/pokemon_mansion/palettes/15.gbapal"

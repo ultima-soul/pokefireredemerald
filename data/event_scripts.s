@@ -676,6 +676,10 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SeafoamIslands_B2F/scripts.inc"
 	.include "data/maps/SeafoamIslands_B3F/scripts.inc"
 	.include "data/maps/SeafoamIslands_B4F/scripts.inc"
+	.include "data/maps/PokemonMansion_1F/scripts.inc"
+	.include "data/maps/PokemonMansion_2F/scripts.inc"
+	.include "data/maps/PokemonMansion_3F/scripts.inc"
+	.include "data/maps/PokemonMansion_B1F/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

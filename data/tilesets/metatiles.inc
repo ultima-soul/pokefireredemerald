@@ -933,3 +933,11 @@ gMetatiles_SeafoamIslands::
 	.align 1
 gMetatileAttributes_SeafoamIslands::
 	.incbin "data/tilesets/secondary/seafoam_islands/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_PokemonMansion::
+	.incbin "data/tilesets/secondary/pokemon_mansion/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_PokemonMansion::
+	.incbin "data/tilesets/secondary/pokemon_mansion/metatile_attributes.bin"

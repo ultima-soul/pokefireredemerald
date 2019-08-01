@@ -934,7 +934,11 @@
     "SeafoamIslands_B1F",
     "SeafoamIslands_B2F",
     "SeafoamIslands_B3F",
-    "SeafoamIslands_B4F"
+    "SeafoamIslands_B4F",
+	"PokemonMansion_1F",
+    "PokemonMansion_2F",
+    "PokemonMansion_3F",
+    "PokemonMansion_B1F"
   ],
   "connections_include_order": [
     "LittlerootTown",
