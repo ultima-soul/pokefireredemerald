@@ -1292,3 +1292,25 @@ gTileset_InsideShipKanto::
 	.4byte gMetatiles_InsideShipKanto
 	.4byte gMetatileAttributes_InsideShipKanto
 	.4byte NULL
+
+	.align 2
+gTileset_DiglettsCave::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_DiglettsCave
+	.4byte gTilesetPalettes_DiglettsCave
+	.4byte gMetatiles_DiglettsCave
+	.4byte gMetatileAttributes_DiglettsCave
+	.4byte NULL
+
+	.align 2
+gTileset_RockTunnel::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_RockTunnel
+	.4byte gTilesetPalettes_RockTunnel
+	.4byte gMetatiles_RockTunnel
+	.4byte gMetatileAttributes_RockTunnel
+	.4byte NULL

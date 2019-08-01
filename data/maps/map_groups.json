@@ -887,7 +887,15 @@
     "SSAnne_B1F_Room3",
     "SSAnne_B1F_Room4",
     "SSAnne_B1F_Room5",
-    "SSAnne_1F_Room6"
+    "SSAnne_1F_Room6",
+	"DiglettsCave_NorthEntrance",
+    "DiglettsCave_B1F",
+    "DiglettsCave_SouthEntrance",
+	"RockTunnel_1F",
+    "RockTunnel_B1F",
+	"UndergroundPath_WestEntrance",
+    "UndergroundPath_EastWestTunnel",
+    "UndergroundPath_EastEntrance"
   ],
   "connections_include_order": [
     "LittlerootTown",

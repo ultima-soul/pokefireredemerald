@@ -2672,3 +2672,49 @@ gTilesetPalettes_InsideShipKanto::
 	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/13.gbapal"
 	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/14.gbapal"
 	.incbin "data/tilesets/secondary/inside_ship_kanto/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_DiglettsCave::
+	.incbin "data/tilesets/secondary/digletts_cave/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_DiglettsCave::
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/digletts_cave/palettes/15.gbapal"
+
+	.align 2
+gTilesetTiles_RockTunnel::
+	.incbin "data/tilesets/secondary/rock_tunnel/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_RockTunnel::
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/0.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/1.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/2.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/3.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/4.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/5.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/6.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/7.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/8.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/9.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/rock_tunnel/palettes/15.gbapal"

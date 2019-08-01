@@ -893,3 +893,19 @@ gMetatiles_InsideShipKanto::
 	.align 1
 gMetatileAttributes_InsideShipKanto::
 	.incbin "data/tilesets/secondary/inside_ship_kanto/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_DiglettsCave::
+	.incbin "data/tilesets/secondary/digletts_cave/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_DiglettsCave::
+	.incbin "data/tilesets/secondary/digletts_cave/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_RockTunnel::
+	.incbin "data/tilesets/secondary/rock_tunnel/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_RockTunnel::
+	.incbin "data/tilesets/secondary/rock_tunnel/metatile_attributes.bin"

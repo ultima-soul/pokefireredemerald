@@ -629,6 +629,14 @@ gStdScripts_End:: @ 81DC2CC
 	.include "data/maps/SSAnne_B1F_Room4/scripts.inc"
 	.include "data/maps/SSAnne_B1F_Room5/scripts.inc"
 	.include "data/maps/SSAnne_1F_Room6/scripts.inc"
+	.include "data/maps/DiglettsCave_NorthEntrance/scripts.inc"
+	.include "data/maps/DiglettsCave_B1F/scripts.inc"
+	.include "data/maps/DiglettsCave_SouthEntrance/scripts.inc"
+	.include "data/maps/RockTunnel_1F/scripts.inc"
+	.include "data/maps/RockTunnel_B1F/scripts.inc"
+	.include "data/maps/UndergroundPath_WestEntrance/scripts.inc"
+	.include "data/maps/UndergroundPath_EastWestTunnel/scripts.inc"
+	.include "data/maps/UndergroundPath_EastEntrance/scripts.inc"
 
 EventScript_SecretBasePC:: @ 823B4BB
 	lockall

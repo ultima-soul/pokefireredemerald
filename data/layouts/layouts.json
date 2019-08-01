@@ -5874,6 +5874,78 @@
       "secondary_tileset": "gTileset_InsideShipKanto",
       "border_filepath": "data/layouts/SSAnne_Room2/border.bin",
       "blockdata_filepath": "data/layouts/SSAnne_Room2/map.bin"
+    },
+	{
+      "id": "LAYOUT_DIGLETTS_CAVE_NORTH_ENTRANCE",
+      "name": "DiglettsCave_NorthEntrance_Layout",
+      "width": 10,
+      "height": 8,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/DiglettsCave_NorthEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCave_NorthEntrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_DIGLETTS_CAVE_B1F",
+      "name": "DiglettsCave_B1F_Layout",
+      "width": 85,
+      "height": 80,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/DiglettsCave_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCave_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_SOUTH_ENTRANCE",
+      "name": "DiglettsCave_SouthEntrance_Layout",
+      "width": 10,
+      "height": 8,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/DiglettsCave_SouthEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCave_SouthEntrance/map.bin"
+    },
+	{
+      "id": "LAYOUT_ROCK_TUNNEL_1F",
+      "name": "RockTunnel_1F_Layout",
+      "width": 48,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_RockTunnel",
+      "border_filepath": "data/layouts/RockTunnel_1F/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnel_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_TUNNEL_B1F",
+      "name": "RockTunnel_B1F_Layout",
+      "width": 48,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralKanto",
+      "secondary_tileset": "gTileset_RockTunnel",
+      "border_filepath": "data/layouts/RockTunnel_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnel_B1F/map.bin"
+    },
+	{
+      "id": "LAYOUT_UNDERGROUND_PATH_EAST_WEST_TUNNEL",
+      "name": "UndergroundPath_EastWestTunnel_Layout",
+      "width": 80,
+      "height": 7,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingKanto",
+      "secondary_tileset": "gTileset_UndergroundPath",
+      "border_filepath": "data/layouts/UndergroundPath_EastWestTunnel/border.bin",
+      "blockdata_filepath": "data/layouts/UndergroundPath_EastWestTunnel/map.bin"
     }
   ]
 }
